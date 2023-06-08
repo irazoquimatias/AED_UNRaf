@@ -1,0 +1,16 @@
+Reino	Clase	Orden	Familia	Genero	Especie	Nombre común
+Metazoa	Actinopterygii	Characiformes	Acestrorhynchidae	Acestrorhynchus	Acestrorhynchus pantaneiro	dientudo
+Metazoa	Actinopterygii	Characiformes	Characidae	Oligosarcus	Oligosarcus hepsetus	dientudo
+Metazoa	Actinopterygii	Characiformes	Characidae	Roeboides	Roeboides descalvadensis	dientudo
+Metazoa	Aves	Passeriformes	Pipridae	Chiroxiphia	Chiroxiphia caudata	Bailarín Azul, Blue-Manakin
+Metazoa	Aves	Passeriformes	Pipridae	Manacus	Manacus manacus	Bailarín Blanco, White-bearded Manakin
+Metazoa	Aves	Passeriformes	Pipridae	Pipra	Pipra fasciicauda	Bailarín Naranja, Band-tailed Manakin
+Metazoa	Mammalia	Rodentia	Caviidae	Hydrochoerus	Hydrochoerus hydrochaeris	carpincho, capibara, capybara
+Metazoa	Mammalia	Carnivora	Procyonidae	Nasua	Nasua nasua	coatí, coati
+Metazoa	Mammalia	Didelphimorphia	Didelphidae	Lutreolina	Lutreolina crassicaudata	comadreja colorada, little water opossum
+Metazoa	Mammalia	Didelphimorphia	Didelphidae	Didelphis	Didelphis albiventris	comadreja común u overa, opossum
+Metazoa	Mammalia	Chiroptera	Phyllostomidae	Tonatia	Tonatia bidens	falso vampiro orejas redondas, ROUND-EARED BAT
+Metazoa	Mammalia	Primates	Atelidae	Alouatta	Alouatta caraya	mono aullador negro, carayá hú, Black Howler
+Metazoa	Mammalia	Chiroptera	Phyllostomidae	Desmodus	Desmodus rotundus	vampiro común, vampire
+Metazoa	Mammalia	Carnivora	Felidae	Panthera	Panthera onca	yaguareté, overo, tigre, JAGUAR
+Metazoa	Mammalia	Carnivora	Canidae	Cerdocyon	Cerdocyon thous	zorro de monte, crab-eating fox

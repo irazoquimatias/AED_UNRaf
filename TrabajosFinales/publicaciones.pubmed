@@ -1,0 +1,80 @@
+PMID	16006119
+DP	2005 Aug
+TI	Evolving strategies for enzyme engineering.
+AB	Directed evolution is a common technique to engineer enzymes for a diverse set of applications. Structural information and an understanding of how proteins respond to mutation and recombination are being used to develop improved directed evolution strategies by increasing the probability that mutant sequences have the desired properties. Strategies that target mutagenesis to particular regions of a protein or use recombination to introduce large sequence changes can complement full-gene random mutagenesis and pave the way to achieving ever more ambitious enzyme engineering goals.
+FAU	Bloom, Jesse D
+FAU	Meyer, Michelle M
+FAU	Meinhold, Peter
+FAU	Otey, Christopher R
+FAU	MacMillan, Derek
+FAU	Arnold, Frances H
+JT	Current opinion in structural biology
+MH	*Directed Molecular Evolution
+MH	*Enzymes/chemistry/genetics/metabolism
+MH	*Protein Engineering
+AID	10.1016/j.sbi.2005.06.004 [doi]
+PMID	34051682
+DP	2021 Dec
+TI	Protein sequence design with deep generative models.
+AB	Protein engineering seeks to identify protein sequences with optimized properties. When guided by machine learning, protein sequence generation methods can draw on prior knowledge and experimental efforts to improve this process. In this review, we highlight recent applications of machine learning to generate protein sequences, focusing on the emerging field of deep generative methods.
+FAU	Wu, Zachary
+FAU	Johnston, Kadina E
+FAU	Arnold, Frances H
+FAU	Yang, Kevin K
+JT	Current opinion in chemical biology
+MH	Amino Acid Sequence
+MH	*Machine Learning
+MH	*Protein Engineering
+AID	10.1016/j.cbpa.2021.04.004 [doi]
+PMID	31433107
+DP	2019 Oct 7
+TI	Innovation by Evolution: Bringing New Chemistry to Life (Nobel Lecture).
+AB	The directed evolution of enzymes is now routinely used to develop new catalysts with various applications, such as in environmentally friendly production of chemicals and renewable fuels. In her Nobel lecture, F. Arnold describes how lessons from nature inspired the development of methods for directed evolution.
+FAU	Arnold, Frances H
+JT	Angewandte Chemie (International ed. in English)
+AID	10.1002/anie.201907729 [doi]
+PMID	24182747
+DP	2013 Dec
+TI	Innovation by homologous recombination.
+AB	Swapping fragments among protein homologs can produce chimeric proteins with a wide range of properties, including properties not exhibited by the parents. Computational methods that use information from structures and sequence alignments have been used to design highly functional chimeras and chimera libraries. Recombination has generated proteins with diverse thermostability and mechanical stability, enzyme substrate specificity, and optogenetic properties. Linear regression, Gaussian processes, and support vector machine learning have been used to model sequence-function relationships and predict useful chimeras. These approaches enable engineering of protein chimeras with desired functions, as well as elucidation of the structural basis for these functions.
+FAU	Trudeau, Devin L
+FAU	Smith, Matthew A
+FAU	Arnold, Frances H
+JT	Current opinion in chemical biology
+MH	Amino Acid Sequence
+MH	Artificial Intelligence
+MH	Models, Molecular
+MH	Molecular Sequence Data
+MH	Protein Engineering/*methods
+MH	Protein Stability
+MH	Recombinant Proteins/chemistry/*genetics/metabolism
+AID	10.1016/j.cbpa.2013.10.007 [doi]
+PMID	26537398
+DP	2015 Nov
+TI	The nature of chemical innovation: new enzymes by evolution.
+AB	I describe how we direct the evolution of non-natural enzyme activities, using chemical intuition and information on structure and mechanism to guide us to the most promising reaction/enzyme systems. With synthetic reagents to generate new reactive intermediates and just a few amino acid substitutions to tune the active site, a cytochrome P450 can catalyze a variety of carbene and nitrene transfer reactions. The cyclopropanation, N-H insertion, C-H amination, sulfimidation, and aziridination reactions now demonstrated are all well known in chemical catalysis but have no counterparts in nature. The new enzymes are fully genetically encoded, assemble and function inside of cells, and can be optimized for different substrates, activities, and selectivities. We are learning how to use nature's innovation mechanisms to marry some of the synthetic chemists' favorite transformations with the exquisite selectivity and tunability of enzymes.
+FAU	Arnold, Frances H
+JT	Quarterly reviews of biophysics
+MH	*Directed Molecular Evolution
+MH	Enzymes/*chemistry/*genetics
+MH	Evolution, Molecular
+MH	Imines/chemistry
+MH	Methane/analogs & derivatives/chemistry
+MH	Protein Engineering/*methods
+AID	10.1017/S003358351500013X [doi]
+PMID	31308553
+DP	2019 Aug
+TI	Machine-learning-guided directed evolution for protein engineering.
+AB	Protein engineering through machine-learning-guided directed evolution enables the optimization of protein functions. Machine-learning approaches predict how sequence maps to function in a data-driven manner without requiring a detailed model of the underlying physics or biological pathways. Such methods accelerate directed evolution by learning from the properties of characterized variants and using that information to select sequences that are likely to exhibit improved properties. Here we introduce the steps required to build machine-learning sequence-function models and to use those models to guide engineering, making recommendations at each stage. This review covers basic concepts relevant to the use of machine learning for protein engineering, as well as the current literature and applications of this engineering paradigm. We illustrate the process with two case studies. Finally, we look to future opportunities for machine learning to enable the discovery of unknown protein functions and uncover the relationship between protein sequence and function.
+FAU	Yang, Kevin K
+FAU	Wu, Zachary
+FAU	Arnold, Frances H
+JT	Nature methods
+MH	*Algorithms
+MH	*Directed Molecular Evolution
+MH	*Machine Learning
+MH	*Models, Biological
+MH	Protein Engineering/*methods
+MH	Proteins/genetics/*metabolism
+AID	10.1038/s41592-019-0496-6 [doi]
+

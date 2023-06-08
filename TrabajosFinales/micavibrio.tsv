@@ -1,0 +1,1245 @@
+Gen	Identificador	Descripcion
+man:A11S_990	K00003	homoserine dehydrogenase [EC:1.1.1.3] | (GenBank) Homoserine dehydrogenase
+man:A11S_2408	K00014	shikimate dehydrogenase [EC:1.1.1.25] | (GenBank) Shikimate 5-dehydrogenase I alpha
+man:A11S_264	K00019	3-hydroxybutyrate dehydrogenase [EC:1.1.1.30] | (GenBank) D-beta-hydroxybutyrate dehydrogenas
+man:A11S_1554	K00020	3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31] | (GenBank) 2-hydroxy-3-oxopropionate reduct
+man:A11S_926	K00023	acetoacetyl-CoA reductase [EC:1.1.1.36] | (GenBank) Acetoacetyl-CoA reductase
+man:A11S_560	K00024	malate dehydrogenase [EC:1.1.1.37] | (GenBank) Malate dehydrogenase
+man:A11S_735	K00029	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40] | (GenBank) NADP-dep
+man:A11S_1739	K00031	isocitrate dehydrogenase [EC:1.1.1.42] | (GenBank) Isocitrate dehydrogenase [NADP]
+man:A11S_335	K00031	isocitrate dehydrogenase [EC:1.1.1.42] | (GenBank) Isocitrate dehydrogenase [NADP]
+man:A11S_1463	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85] | (GenBank) 3-isopropylmalate dehydrogenase
+man:A11S_416	K00057	glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94] | (GenBank) Glycerol-3-phosphate d
+man:A11S_94	K00058	D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399] | (GenB
+man:A11S_2259	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) 3-oxoacyl-[acyl-carrier
+man:A11S_286	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100] | (GenBank) 3-oxoacyl-[acyl-carrier
+man:A11S_1333	K00060	threonine 3-dehydrogenase [EC:1.1.1.103] | (GenBank) L-threonine 3-dehydrogenase
+man:A11S_1809	K00075	UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98] | (GenBank) UDP-N-acetylenolpyruvoylglucosam
+man:A11S_2223	K00088	IMP dehydrogenase [EC:1.1.1.205] | (GenBank) Inosine-5'-monophosphate dehydrogenase
+man:A11S_1265	K00099	1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267] | (GenBank) 1-deoxy-D-xylulose
+man:A11S_1412	K00128	aldehyde dehydrogenase (NAD+) [EC:1.2.1.3] | (GenBank) Aldehyde dehydrogenase
+man:A11S_1839	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11] | (GenBank) Aspartate-semialdehyde dehydro
+man:A11S_1121	K00134	glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12] | (GenBank) NADPH-de
+man:A11S_98	K00135	succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.
+man:A11S_297	K00140	malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase
+man:A11S_1239	K00161	pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4.1] | (GenBank) Pyruvate dehydroge
+man:A11S_1238	K00162	pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1] | (GenBank) Pyruvate dehydrogen
+man:A11S_570	K00164	2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2] | (GenBank) 2-oxoglutarate dehydrogena
+man:A11S_1064	K00208	enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10] | (GenBank) Enoyl-[acyl-carrie
+man:A11S_712	K00208	enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10] | (GenBank) Enoyl-[acyl-carrie
+man:A11S_1686	K00215	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8] | (GenBank) Dihydrodipicolinate redu
+man:A11S_1598	K00228	coproporphyrinogen III oxidase [EC:1.3.3.3] | (GenBank) Coproporphyrinogen III oxidase, aerob
+man:A11S_1834	K00239	succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1] | (GenBank) Succinate dehydrogenase
+man:A11S_1829	K00240	succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1] | (GenBank) Succinate dehydrogenase
+man:A11S_1836	K00241	succinate dehydrogenase cytochrome b subunit | (GenBank) Succinate dehydrogenase cytochrome b
+man:A11S_1835	K00242	succinate dehydrogenase membrane anchor subunit | (GenBank) Succinate dehydrogenase hydrophob
+man:A11S_1071	K00249	acyl-CoA dehydrogenase [EC:1.3.8.7] | (GenBank) Acyl-CoA dehydrogenase
+man:A11S_947	K00252	glutaryl-CoA dehydrogenase [EC:1.3.8.6] | (GenBank) Glutaryl-CoA dehydrogenase
+man:A11S_806	K00253	isovaleryl-CoA dehydrogenase [EC:1.3.8.4] | (GenBank) Isovaleryl-CoA dehydrogenase
+man:A11S_656	K00254	dihydroorotate dehydrogenase [EC:1.3.5.2] | (GenBank) Dihydroorotate dehydrogenase
+man:A11S_1307	K00259	alanine dehydrogenase [EC:1.4.1.1] | (GenBank) Alanine dehydrogenase
+man:A11S_1532	K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3] | (GenBank) NAD-specific glutamate dehydrogena
+man:A11S_1705	K00263	leucine dehydrogenase [EC:1.4.1.9] | (GenBank) Leucine dehydrogenase
+man:A11S_530	K00263	leucine dehydrogenase [EC:1.4.1.9] | (GenBank) Leucine dehydrogenase
+man:A11S_709	K00275	pyridoxamine 5'-phosphate oxidase [EC:1.4.3.5] | (GenBank) Pyridoxamine 5'-phosphate oxidase
+man:A11S_1342	K00282	glycine cleavage system P protein (glycine dehydrogenase) subunit 1 [EC:1.4.4.2] | (GenBank)
+man:A11S_1341	K00283	glycine cleavage system P protein (glycine dehydrogenase) subunit 2 [EC:1.4.4.2] | (GenBank)
+man:A11S_892	K00286	pyrroline-5-carboxylate reductase [EC:1.5.1.2] | (GenBank) Pyrroline-5-carboxylate reductase
+man:A11S_390	K00287	dihydrofolate reductase [EC:1.5.1.3] | (GenBank) Dihydrofolate reductase
+man:A11S_1889	K00311	electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1] | (GenBank) Electron transfer f
+man:A11S_1790	K00324	H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1] | (GenBank) NAD(P
+man:A11S_1791	K00324	H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1] | (GenBank) NAD(P
+man:A11S_1793	K00325	H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1] | (GenBank) NAD(P)
+man:A11S_1301	K00330	NADH-quinone oxidoreductase subunit A [EC:7.1.1.2] | (GenBank) NADH ubiquinone oxidoreductase
+man:A11S_1300	K00331	NADH-quinone oxidoreductase subunit B [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1299	K00332	NADH-quinone oxidoreductase subunit C [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1298	K00333	NADH-quinone oxidoreductase subunit D [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1295	K00335	NADH-quinone oxidoreductase subunit F [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1293	K00336	NADH-quinone oxidoreductase subunit G [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1291	K00337	NADH-quinone oxidoreductase subunit H [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1290	K00338	NADH-quinone oxidoreductase subunit I [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1286	K00339	NADH-quinone oxidoreductase subunit J [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1285	K00340	NADH-quinone oxidoreductase subunit K [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1284	K00341	NADH-quinone oxidoreductase subunit L [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1283	K00342	NADH-quinone oxidoreductase subunit M [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1282	K00343	NADH-quinone oxidoreductase subunit N [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxidoreductase
+man:A11S_1587	K00344	NADPH:quinone reductase [EC:1.6.5.5] | (GenBank) Quinone oxidoreductase
+man:A11S_1585	K00364	GMP reductase [EC:1.7.1.7] | (GenBank) GMP reductase
+man:A11S_829	K00370	nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.-] | (GenBank) R
+man:A11S_830	K00371	nitrate reductase / nitrite oxidoreductase, beta subunit [EC:1.7.5.1 1.7.99.-] | (GenBank) Re
+man:A11S_831	K00373	nitrate reductase molybdenum cofactor assembly chaperone NarJ/NarW | (GenBank) Respiratory ni
+man:A11S_832	K00374	nitrate reductase gamma subunit [EC:1.7.5.1 1.7.99.-] | (GenBank) Respiratory nitrate reducta
+man:A11S_578	K00382	dihydrolipoyl dehydrogenase [EC:1.8.1.4] | (GenBank) Dihydrolipoamide dehydrogenase of 2-oxog
+man:A11S_1228	K00382	dihydrolipoyl dehydrogenase [EC:1.8.1.4] | (GenBank) Dihydrolipoamide dehydrogenase of pyruva
+man:A11S_122	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9] | (GenBank) Thioredoxin reductase
+man:A11S_1524	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9] | (GenBank) Thioredoxin reductase
+man:A11S_348	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9] | (GenBank) Thioredoxin reductase
+man:A11S_1596	K00411	ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8] | (GenBank) Ubiquinol-cytoc
+man:A11S_1595	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit | (GenBank) Ubiquinol--cytochrome c red
+man:A11S_1594	K00413	ubiquinol-cytochrome c reductase cytochrome c1 subunit | (GenBank) ubiquinol cytochrome C oxi
+man:A11S_283	K00425	cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7] | (GenBank) Cytochrome d ubiquinol oxi
+man:A11S_284	K00426	cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7] | (GenBank) Cytochrome d ubiquinol ox
+man:A11S_1902	K00432	glutathione peroxidase [EC:1.11.1.9] | (GenBank) Glutathione peroxidase
+man:A11S_1337	K00451	homogentisate 1,2-dioxygenase [EC:1.13.11.5] | (GenBank) Homogentisate 1,2-dioxygenase
+man:A11S_1434	K00453	tryptophan 2,3-dioxygenase [EC:1.13.11.11] | (GenBank) Tryptophan 2,3-dioxygenase
+man:A11S_266	K00457	4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27] | (GenBank) 4-hydroxyphenylpyruvate dioxy
+man:A11S_2397	K00463	indoleamine 2,3-dioxygenase [EC:1.13.11.52] | (GenBank) Indoleamine 2,3-dioxygenase
+man:A11S_269	K00500	phenylalanine-4-hydroxylase [EC:1.14.16.1] | (GenBank) Phenylalanine-4-hydroxylase
+man:A11S_174	K00523	CDP-4-dehydro-6-deoxyglucose reductase, E3 [EC:1.17.1.1] | (GenBank) CDP-6-deoxy-delta-3,4-gl
+man:A11S_2299	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1] | (GenBank) Ribonucleotide red
+man:A11S_2305	K00526	ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1] | (GenBank) Ribonucleotide redu
+man:A11S_1453	K00554	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228] | (GenBank) tRNA (Guanine37-N1) -methylt
+man:A11S_999	K00558	DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37] | (GenBank) Site-specific DNA methylase
+man:A11S_1720	K00560	thymidylate synthase [EC:2.1.1.45] | (GenBank) Thymidylate synthase
+man:A11S_391	K00560	thymidylate synthase [EC:2.1.1.45] | (GenBank) Thymidylate synthase
+man:A11S_88	K00564	16S rRNA (guanine1207-N2)-methyltransferase [EC:2.1.1.172] | (GenBank) Ribosomal RNA small su
+man:A11S_1996	K00566	tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13] | (GenBank) tRNA (5-methylaminomethyl-2-thiour
+man:A11S_1370	K00568	2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1
+man:A11S_1112	K00573	protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77] | (GenBank) Protein-L-i
+man:A11S_744	K00573	protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77] | (GenBank) Protein-L-i
+man:A11S_1908	K00574	cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79] | (GenBank) Cyclopropane-fatty-ac
+man:A11S_1950	K00575	chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) Chemotaxis protein methyl
+man:A11S_453	K00575	chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) Chemotaxis protein methyl
+man:A11S_627	K00575	chemotaxis protein methyltransferase CheR [EC:2.1.1.80] | (GenBank) Chemotaxis protein methyl
+man:A11S_950	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1] | (GenBank) Serine hydroxymethyltransferase
+man:A11S_973	K00604	methionyl-tRNA formyltransferase [EC:2.1.2.9] | (GenBank) bifunctional polymyxin resistance A
+man:A11S_2344	K00604	methionyl-tRNA formyltransferase [EC:2.1.2.9] | (GenBank) Methionyl-tRNA formyltransferase
+man:A11S_1344	K00605	glycine cleavage system T protein (aminomethyltransferase) [EC:2.1.2.10] | (GenBank) Aminomet
+man:A11S_1852	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2] | (GenBank) Aspartate carbamoyl
+man:A11S_1125	K00615	transketolase [EC:2.2.1.1] | (GenBank) Transketolase
+man:A11S_584	K00616	transaldolase [EC:2.2.1.2] | (GenBank) Transaldolase
+man:A11S_925	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (GenBank) 3-ketoacyl-CoA thiolase / Acetyl-CoA
+man:A11S_776	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9] | (GenBank) Acetyl-CoA C-acyltransferase / Acetyl
+man:A11S_1237	K00627	pyruvate dehydrogenase E2 component (dihydrolipoyllysine-residue acetyltransferase) [EC:2.3.1
+man:A11S_2324	K00632	acetyl-CoA acyltransferase [EC:2.3.1.16] | (GenBank) 3-ketoacyl-CoA thiolase / Acetyl-CoA ace
+man:A11S_1332	K00639	glycine C-acetyltransferase [EC:2.3.1.29] | (GenBank) 2-amino-3-ketobutyrate coenzyme A ligas
+man:A11S_1542	K00640	serine O-acetyltransferase [EC:2.3.1.30] | (GenBank) Serine acetyltransferase
+man:A11S_699	K00643	5-aminolevulinate synthase [EC:2.3.1.37] | (GenBank) 5-aminolevulinate synthase
+man:A11S_2256	K00645	[acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39] | (GenBank) Malonyl CoA-acyl carrie
+man:A11S_1063	K00647	3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41] | (GenBank) 3-oxoacyl-[acyl-carrier
+man:A11S_962	K00648	3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180] | (GenBank) 3-oxoacyl-[acyl-carr
+man:A11S_1384	K00655	1-acyl-sn-glycerol-3-phosphate acyltransferase [EC:2.3.1.51] | (GenBank) 1-acyl-sn-glycerol-3
+man:A11S_573	K00658	2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61
+man:A11S_1259	K00677	UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129] | (GenBank) Acyl-[acyl-carrier-protein
+man:A11S_2269	K00684	leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6] | (GenBank) Leucyl/phenylalanyl-t
+man:A11S_1257	K00748	lipid-A-disaccharide synthase [EC:2.4.1.182] | (GenBank) Lipid-A-disaccharide synthase
+man:A11S_1741	K00758	thymidine phosphorylase [EC:2.4.2.4] | (GenBank) Thymidine phosphorylase
+man:A11S_1933	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7] | (GenBank) Adenine phosphoribosyltransferase
+man:A11S_295	K00761	uracil phosphoribosyltransferase [EC:2.4.2.9] | (GenBank) Uracil phosphoribosyltransferase
+man:A11S_1768	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10] | (GenBank) Orotate phosphoribosyltransferase
+man:A11S_1495	K00763	nicotinate phosphoribosyltransferase [EC:6.3.4.21] | (GenBank) Nicotinate phosphoribosyltrans
+man:A11S_2186	K00769	xanthine phosphoribosyltransferase [EC:2.4.2.22] | (GenBank) Xanthine-guanine phosphoribosylt
+man:A11S_1030	K00773	queuine tRNA-ribosyltransferase [EC:2.4.2.29] | (GenBank) tRNA-guanine transglycosylase
+man:A11S_1145	K00783	23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177] | (GenBank) protein of unkno
+man:A11S_1083	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6] | (GenBank) S-adenosylmethionine synthetase
+man:A11S_540	K00790	UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7] | (GenBank) UDP-N-acetylglucos
+man:A11S_384	K00791	tRNA dimethylallyltransferase [EC:2.5.1.75] | (GenBank) tRNA dimethylallyltransferase 1
+man:A11S_718	K00795	farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10] | (GenBank) Octaprenyl-diphosphate syntha
+man:A11S_2178	K00799	glutathione S-transferase [EC:2.5.1.18] | (GenBank) Glutathione S-transferase
+man:A11S_220	K00799	glutathione S-transferase [EC:2.5.1.18] | (GenBank) Glutathione S-transferase family protein
+man:A11S_149	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19] | (GenBank) 5-Enolpyruvylshikimate
+man:A11S_1267	K00806	undecaprenyl diphosphate synthase [EC:2.5.1.31] | (GenBank) Undecaprenyl pyrophosphate synthe
+man:A11S_454	K00808	homospermidine synthase [EC:2.5.1.44] | (GenBank) Homospermidine synthase
+man:A11S_1528	K00812	aspartate aminotransferase [EC:2.6.1.1] | (GenBank) Aspartate aminotransferase
+man:A11S_229	K00812	aspartate aminotransferase [EC:2.6.1.1] | (GenBank) Aspartate aminotransferase
+man:A11S_2333	K00820	glutamine---fructose-6-phosphate transaminase (isomerizing) [EC:2.6.1.16] | (GenBank) Glucosa
+man:A11S_422	K00822	beta-alanine--pyruvate transaminase [EC:2.6.1.18] | (GenBank) Omega-amino acid--pyruvate amin
+man:A11S_1215	K00824	D-alanine transaminase [EC:2.6.1.21] | (GenBank) D-alanine aminotransferase
+man:A11S_904	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42] | (GenBank) Branched-chain amino aci
+man:A11S_93	K00831	phosphoserine aminotransferase [EC:2.6.1.52] | (GenBank) Phosphoserine aminotransferase
+man:A11S_2101	K00845	glucokinase [EC:2.7.1.2] | (GenBank) Glucokinase
+man:A11S_526	K00845	glucokinase [EC:2.7.1.2] | (GenBank) Glucokinase
+man:A11S_1876	K00847	fructokinase [EC:2.7.1.4] | (GenBank) ROK family Glucokinase with ambiguous substrate specifi
+man:A11S_700	K00852	ribokinase [EC:2.7.1.15] | (GenBank) Ribokinase
+man:A11S_1769	K00858	NAD+ kinase [EC:2.7.1.23] | (GenBank) NAD kinase
+man:A11S_2407	K00859	dephospho-CoA kinase [EC:2.7.1.24] | (GenBank) Dephospho-CoA kinase
+man:A11S_533	K00864	glycerol kinase [EC:2.7.1.30] | (GenBank) Glycerol kinase
+man:A11S_2301	K00873	pyruvate kinase [EC:2.7.1.40] | (GenBank) Pyruvate kinase
+man:A11S_1394	K00891	shikimate kinase [EC:2.7.1.71] | (GenBank) Shikimate kinase I
+man:A11S_1491	K00912	tetraacyldisaccharide 4'-kinase [EC:2.7.1.130] | (GenBank) Tetraacyldisaccharide 4'-kinase
+man:A11S_1891	K00919	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148] | (GenBank) 4-diphosphocytid
+man:A11S_1431	K00927	phosphoglycerate kinase [EC:2.7.2.3] | (GenBank) Phosphoglycerate kinase
+man:A11S_1369	K00928	aspartate kinase [EC:2.7.2.4] | (GenBank) Aspartokinase
+man:A11S_2036	K00939	adenylate kinase [EC:2.7.4.3] | (GenBank) Adenylate kinase
+man:A11S_1883	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6] | (GenBank) Nucleoside diphosphate kinase
+man:A11S_1201	K00943	dTMP kinase [EC:2.7.4.9] | (GenBank) Thymidylate kinase
+man:A11S_143	K00945	CMP/dCMP kinase [EC:2.7.4.25] | (GenBank) Cytidylate kinase
+man:A11S_66	K00945	CMP/dCMP kinase [EC:2.7.4.25] | (GenBank) Cytidylate kinase
+man:A11S_899	K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1] | (GenBank) Ribose-phosphate pyrophosphokinas
+man:A11S_1549	K00954	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3] | (GenBank) Phosphopantetheine adenyly
+man:A11S_1977	K00955	bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25] | (GenBank) Adenylylsulfate kinase
+man:A11S_1978	K00957	sulfate adenylyltransferase subunit 2 [EC:2.7.7.4] | (GenBank) Sulfate adenylyltransferase su
+man:A11S_1067	K00962	polyribonucleotide nucleotidyltransferase [EC:2.7.7.8] | (GenBank) Polyribonucleotide nucleot
+man:A11S_631	K00963	UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9] | (GenBank) UTP--glucose-1-phosphat
+man:A11S_1148	K00969	nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18] | (GenBank) Nicotinate-nucleotide ade
+man:A11S_1600	K00970	poly(A) polymerase [EC:2.7.7.19] | (GenBank) CCA tRNA nucleotidyltransferase
+man:A11S_653	K00979	3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38] | (GenBank
+man:A11S_1266	K00981	phosphatidate cytidylyltransferase [EC:2.7.7.41] | (GenBank) Phosphatidate cytidylyltransfera
+man:A11S_1676	K00989	ribonuclease PH [EC:2.7.7.56] | (GenBank) Ribonuclease PH
+man:A11S_120	K00992	N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase [EC:2.7.7.99] | (GenBank) nucleotid
+man:A11S_2205	K00997	holo-[acyl-carrier protein] synthase [EC:2.7.8.7] | (GenBank) Holo-[acyl-carrier protein] syn
+man:A11S_1814	K01000	phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13] | (GenBank) Phospho-N-acetylm
+man:A11S_690	K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1] | (GenBank) Pyruvate,phosphate dikinase
+man:A11S_1107	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2] | (GenBank) Thiosulfate
+man:A11S_1796	K01048	lysophospholipase [EC:3.1.1.5] | (GenBank) alpha/beta hydrolase fold protein
+man:A11S_1795	K01048	lysophospholipase [EC:3.1.1.5] | (GenBank) putative lysophospholipase
+man:A11S_901	K01056	peptidyl-tRNA hydrolase, PTH1 family [EC:3.1.1.29] | (GenBank) Peptidyl-tRNA hydrolase
+man:A11S_16	K01061	carboxymethylenebutenolidase [EC:3.1.1.45] | (GenBank) Dienelactone hydrolase family
+man:A11S_294	K01066	acetyl esterase [EC:3.1.1.-] | (GenBank) putative exported lipase/esterase
+man:A11S_91	K01079	phosphoserine phosphatase [EC:3.1.3.3] | (GenBank) Phosphoserine phosphatase
+man:A11S_1718	K01081	5'-nucleotidase [EC:3.1.3.5] | (GenBank) 5'-nucleotidase
+man:A11S_1976	K01082	3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7] | (GenBank) 3'(2'),5'-bisphosphate nucleoti
+man:A11S_1979	K01082	3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7] | (GenBank) 3'(2'),5'-bisphosphate nucleoti
+man:A11S_715	K01091	phosphoglycolate phosphatase [EC:3.1.3.18] | (GenBank) HAD-superfamily hydrolase, subfamily I
+man:A11S_1157	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25] | (GenBank) Inositol-1-monophosphatase
+man:A11S_1220	K01095	phosphatidylglycerophosphatase A [EC:3.1.3.27] | (GenBank) Phosphatidylglycerophosphatase A
+man:A11S_293	K01118	FMN-dependent NADH-azoreductase [EC:1.7.1.17] | (GenBank) FMN-dependent NADH-azoreductase
+man:A11S_1066	K01126	glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46] | (GenBank) Glycerophosphoryl diest
+man:A11S_791	K01126	glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46] | (GenBank) hypothetical protein
+man:A11S_550	K01129	dGTPase [EC:3.1.5.1] | (GenBank) Deoxyguanosinetriphosphate triphosphohydrolase
+man:A11S_2210	K01139	GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]
+man:A11S_305	K01142	exodeoxyribonuclease III [EC:3.1.11.2] | (GenBank) Exodeoxyribonuclease III
+man:A11S_547	K01142	exodeoxyribonuclease III [EC:3.1.11.2] | (GenBank) Exodeoxyribonuclease III
+man:A11S_1133	K01159	crossover junction endodeoxyribonuclease RuvC [EC:3.1.21.10] | (GenBank) Crossover junction e
+man:A11S_1703	K01187	alpha-glucosidase [EC:3.2.1.20] | (GenBank) Maltodextrin glucosidase
+man:A11S_1924	K01201	glucosylceramidase [EC:3.2.1.45] | (GenBank) Glucosylceramidase
+man:A11S_552	K01207	beta-N-acetylhexosaminidase [EC:3.2.1.52] | (GenBank) Beta N-acetyl-glucosaminidase
+man:A11S_1436	K01241	AMP nucleosidase [EC:3.2.2.4] | (GenBank) AMP nucleosidase
+man:A11S_2112	K01246	DNA-3-methyladenine glycosylase I [EC:3.2.2.20] | (GenBank) DNA-3-methyladenine glycosylase
+man:A11S_128	K01251	adenosylhomocysteinase [EC:3.13.2.1] | (GenBank) Adenosylhomocysteinase
+man:A11S_184	K01255	leucyl aminopeptidase [EC:3.4.11.1] | (GenBank) Cytosol aminopeptidase PepA
+man:A11S_187	K01255	leucyl aminopeptidase [EC:3.4.11.1] | (GenBank) Cytosol aminopeptidase PepA
+man:A11S_1164	K01256	aminopeptidase N [EC:3.4.11.2] | (GenBank) Membrane alanine aminopeptidase N
+man:A11S_1124	K01259	proline iminopeptidase [EC:3.4.11.5] | (GenBank) proline iminopeptidase
+man:A11S_1430	K01259	proline iminopeptidase [EC:3.4.11.5] | (GenBank) Proline iminopeptidase
+man:A11S_634	K01262	Xaa-Pro aminopeptidase [EC:3.4.11.9] | (GenBank) Xaa-Pro aminopeptidase
+man:A11S_1698	K01265	methionyl aminopeptidase [EC:3.4.11.18] | (GenBank) Methionine aminopeptidase
+man:A11S_480	K01284	peptidyl-dipeptidase Dcp [EC:3.4.15.5] | (GenBank) Dipeptidyl carboxypeptidase Dcp
+man:A11S_482	K01284	peptidyl-dipeptidase Dcp [EC:3.4.15.5] | (GenBank) Dipeptidyl carboxypeptidase Dcp
+man:A11S_1627	K01286	D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4] | (GenBank) D-alanyl-D-alanine carboxypepti
+man:A11S_2288	K01286	D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4] | (GenBank) D-alanyl-D-alanine carboxypepti
+man:A11S_1421	K01297	muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13] | (GenBank) Muramoyltetrapeptide carboxy
+man:A11S_648	K01299	carboxypeptidase Taq [EC:3.4.17.19] | (GenBank) Thermostable carboxypeptidase 1
+man:A11S_30	K01299	carboxypeptidase Taq [EC:3.4.17.19] | (GenBank) Thermostable carboxypeptidase 1, Zinc-requiri
+man:A11S_1312	K01338	ATP-dependent Lon protease [EC:3.4.21.53] | (GenBank) ATP-dependent protease La Type I
+man:A11S_1252	K01356	repressor LexA [EC:3.4.21.88] | (GenBank) SOS-response repressor and protease LexA
+man:A11S_1313	K01358	ATP-dependent Clp protease, protease subunit [EC:3.4.21.92] | (GenBank) ATP-dependent Clp pro
+man:A11S_2279	K01358	ATP-dependent Clp protease, protease subunit [EC:3.4.21.92] | (GenBank) ATP-dependent Clp pro
+man:A11S_86	K01406	serralysin [EC:3.4.24.40] | (GenBank) hypothetical protein
+man:A11S_2340	K01439	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18] | (GenBank) N-succinyl-L,L-diaminopimela
+man:A11S_1823	K01447	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] | (GenBank) N-acetylmuramoyl-L-alanine amida
+man:A11S_1193	K01448	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] | (GenBank) N-acetylmuramoyl-L-alanine amida
+man:A11S_338	K01448	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] | (GenBank) N-acetylmuramoyl-L-alanine amida
+man:A11S_1745	K01449	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28] | (GenBank) Cell wall hydrolyses involved in
+man:A11S_739	K01458	N-formylglutamate deformylase [EC:3.5.1.68] | (GenBank) N-formylglutamate amidohydrolase
+man:A11S_740	K01458	N-formylglutamate deformylase [EC:3.5.1.68] | (GenBank) putative hydrolase
+man:A11S_2345	K01462	peptide deformylase [EC:3.5.1.88] | (GenBank) Peptide deformylase
+man:A11S_151	K01465	dihydroorotase [EC:3.5.2.3] | (GenBank) Dihydroorotase
+man:A11S_476	K01476	arginase [EC:3.5.3.1] | (GenBank) Arginase
+man:A11S_2278	K01487	guanine deaminase [EC:3.5.4.3] | (GenBank) guanine deaminase
+man:A11S_903	K01488	adenosine deaminase [EC:3.5.4.4] | (GenBank) Adenosine deaminase
+man:A11S_2319	K01489	cytidine deaminase [EC:3.5.4.5] | (GenBank) hypothetical protein
+man:A11S_1735	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC
+man:A11S_2386	K01494	dCTP deaminase [EC:3.5.4.13] | (GenBank) deoxycytidine triphosphate deaminase
+man:A11S_541	K01494	dCTP deaminase [EC:3.5.4.13] | (GenBank) Deoxycytidine triphosphate deaminase
+man:A11S_1037	K01507	inorganic pyrophosphatase [EC:3.6.1.1] | (GenBank) Inorganic pyrophosphatase
+man:A11S_1675	K01519	XTP/dITP diphosphohydrolase [EC:3.6.1.66] | (GenBank) Nucleoside 5-triphosphatase RdgB (dHAPT
+man:A11S_875	K01520	dUTP diphosphatase [EC:3.6.1.23] | (GenBank) Deoxyuridine 5'-triphosphate nucleotidohydrolase
+man:A11S_1932	K01581	ornithine decarboxylase [EC:4.1.1.17] | (GenBank) Ornithine decarboxylase / Arginine decarbox
+man:A11S_1184	K01586	diaminopimelate decarboxylase [EC:4.1.1.20] | (GenBank) Diaminopimelate decarboxylase
+man:A11S_1377	K01586	diaminopimelate decarboxylase [EC:4.1.1.20] | (GenBank) Diaminopimelate decarboxylase
+man:A11S_139	K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23] | (GenBank) Orotidine 5'-phosphate decarbo
+man:A11S_1194	K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31] | (GenBank) Phosphoenolpyruvate carboxylase
+man:A11S_1	K01599	uroporphyrinogen decarboxylase [EC:4.1.1.37] | (GenBank) Uroporphyrinogen III decarboxylase
+man:A11S_1411	K01619	deoxyribose-phosphate aldolase [EC:4.1.2.4] | (GenBank) Deoxyribose-phosphate aldolase
+man:A11S_1117	K01624	fructose-bisphosphate aldolase, class II [EC:4.1.2.13] | (GenBank) Fructose-bisphosphate aldo
+man:A11S_1494	K01626	3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54] | (GenBank) 2-keto-3-deoxy-D-arabino-hept
+man:A11S_1243	K01627	2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55] | (GenBank) 2-Keto
+man:A11S_805	K01640	hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4] | (GenBank) Hydroxymethylglutaryl-CoA lyase
+man:A11S_1256	K01647	citrate synthase [EC:2.3.3.1] | (GenBank) Citrate synthase (si)
+man:A11S_2270	K01649	2-isopropylmalate synthase [EC:2.3.3.13] | (GenBank) 2-isopropylmalate synthase
+man:A11S_704	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6] | (GenBank) Thiamine pyrophosphate-
+man:A11S_785	K01659	2-methylcitrate synthase [EC:2.3.3.5] | (GenBank) 2-methylcitrate synthase
+man:A11S_716	K01662	1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7] | (GenBank) 1-deoxy-D-xylulose 5-phospha
+man:A11S_1420	K01669	deoxyribodipyrimidine photo-lyase [EC:4.1.99.3] | (GenBank) Deoxyribodipyrimidine photolyase
+man:A11S_82	K01673	carbonic anhydrase [EC:4.2.1.1] | (GenBank) Carbonic anhydrase
+man:A11S_930	K01679	fumarate hydratase, class II [EC:4.2.1.2] | (GenBank) Fumarate hydratase class II
+man:A11S_1722	K01681	aconitate hydratase [EC:4.2.1.3] | (GenBank) Aconitate hydratase
+man:A11S_1242	K01689	enolase [EC:4.2.1.11] | (GenBank) Enolase
+man:A11S_941	K01692	enoyl-CoA hydratase [EC:4.2.1.17] | (GenBank) 3-hydroxyisobutyryl-CoA hydrolase
+man:A11S_1458	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35] | (GenB
+man:A11S_1462	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35] | (GenB
+man:A11S_953	K01710	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46] | (GenBank) dTDP-glucose 4,6-dehydratase
+man:A11S_473	K01711	GDPmannose 4,6-dehydratase [EC:4.2.1.47] | (GenBank) GDP-mannose 4,6-dehydratase
+man:A11S_1609	K01714	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7] | (GenBank) Dihydrodipicolinate syntha
+man:A11S_1062	K01716	3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] is
+man:A11S_418	K01719	uroporphyrinogen-III synthase [EC:4.2.1.75] | (GenBank) Uroporphyrinogen-III synthase
+man:A11S_788	K01720	2-methylcitrate dehydratase [EC:4.2.1.79] | (GenBank) 2-methylcitrate dehydratase
+man:A11S_705	K01724	4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96] | (GenBank) Pterin-4-alpha-carbinolam
+man:A11S_984	K01726	gamma-carbonic anhydrase [EC:4.2.1.-] | (GenBank) carbonic anhydrase, family 3
+man:A11S_2239	K01733	threonine synthase [EC:4.2.3.1] | (GenBank) Threonine synthase
+man:A11S_1393	K01735	3-dehydroquinate synthase [EC:4.2.3.4] | (GenBank) 3-dehydroquinate synthase
+man:A11S_713	K01736	chorismate synthase [EC:4.2.3.5] | (GenBank) Chorismate synthase
+man:A11S_1543	K01738	cysteine synthase [EC:2.5.1.47] | (GenBank) Cysteine synthase
+man:A11S_873	K01738	cysteine synthase [EC:2.5.1.47] | (GenBank) Cysteine synthase
+man:A11S_981	K01740	O-acetylhomoserine (thiol)-lyase [EC:2.5.1.49] | (GenBank) O-acetylhomoserine sulfhydrylase /
+man:A11S_417	K01749	hydroxymethylbilane synthase [EC:2.5.1.61] | (GenBank) Porphobilinogen deaminase
+man:A11S_1700	K01756	adenylosuccinate lyase [EC:4.3.2.2] | (GenBank) Adenylosuccinate lyase
+man:A11S_401	K01759	lactoylglutathione lyase [EC:4.4.1.5] | (GenBank) Lactoylglutathione lyase
+man:A11S_1108	K01768	adenylate cyclase [EC:4.6.1.1] | (GenBank) Adenylate cyclase
+man:A11S_1786	K01768	adenylate cyclase [EC:4.6.1.1] | (GenBank) Adenylate cyclase
+man:A11S_2	K01772	protoporphyrin/coproporphyrin ferrochelatase [EC:4.98.1.1 4.99.1.9] | (GenBank) Ferrochelatas
+man:A11S_2248	K01775	alanine racemase [EC:5.1.1.1] | (GenBank) Alanine racemase
+man:A11S_1446	K01778	diaminopimelate epimerase [EC:5.1.1.7] | (GenBank) Diaminopimelate epimerase
+man:A11S_320	K01783	ribulose-phosphate 3-epimerase [EC:5.1.3.1] | (GenBank) Ribulose-phosphate 3-epimerase
+man:A11S_969	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2] | (GenBank) UDP-glucose 4-epimerase
+man:A11S_976	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2] | (GenBank) UDP-glucose 4-epimerase
+man:A11S_1247	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1] | (GenBank) Triosephosphate isomerase
+man:A11S_949	K01808	ribose 5-phosphate isomerase B [EC:5.3.1.6] | (GenBank) Ribose 5-phosphate isomerase B
+man:A11S_2018	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9] | (GenBank) Glucose-6-phosphate isomerase
+man:A11S_1833	K01821	4-oxalocrotonate tautomerase [EC:5.3.2.6] | (GenBank) 4-oxalocrotonate tautomerase family enz
+man:A11S_1070	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) Phosphogl
+man:A11S_651	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) Phosphogl
+man:A11S_630	K01840	phosphomannomutase [EC:5.4.2.8] | (GenBank) Phosphomannomutase
+man:A11S_1988	K01866	tyrosyl-tRNA synthetase [EC:6.1.1.1] | (GenBank) Tyrosyl-tRNA synthetase
+man:A11S_880	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2] | (GenBank) Tryptophanyl-tRNA synthetase
+man:A11S_111	K01868	threonyl-tRNA synthetase [EC:6.1.1.3] | (GenBank) Threonyl-tRNA synthetase
+man:A11S_32	K01869	leucyl-tRNA synthetase [EC:6.1.1.4] | (GenBank) Leucyl-tRNA synthetase
+man:A11S_2010	K01870	isoleucyl-tRNA synthetase [EC:6.1.1.5] | (GenBank) Isoleucyl-tRNA synthetase
+man:A11S_1886	K01872	alanyl-tRNA synthetase [EC:6.1.1.7] | (GenBank) Alanyl-tRNA synthetase
+man:A11S_1115	K01873	valyl-tRNA synthetase [EC:6.1.1.9] | (GenBank) Valyl-tRNA synthetase
+man:A11S_1203	K01874	methionyl-tRNA synthetase [EC:6.1.1.10] | (GenBank) Methionyl-tRNA synthetase
+man:A11S_742	K01875	seryl-tRNA synthetase [EC:6.1.1.11] | (GenBank) Seryl-tRNA synthetase
+man:A11S_1872	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12] | (GenBank) Aspartyl-tRNA synthetase / Aspartyl-tRNA(A
+man:A11S_1655	K01880	glycyl-tRNA synthetase [EC:6.1.1.14] | (GenBank) Glycyl-tRNA synthetase
+man:A11S_1277	K01881	prolyl-tRNA synthetase [EC:6.1.1.15] | (GenBank) Bacterial type Prolyl-tRNA synthetase
+man:A11S_153	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16] | (GenBank) Cysteinyl-tRNA synthetase
+man:A11S_1254	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17] | (GenBank) Glutamyl-tRNA synthetase
+man:A11S_1497	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17] | (GenBank) Glutamyl-tRNA(Gln) synthetase
+man:A11S_365	K01887	arginyl-tRNA synthetase [EC:6.1.1.19] | (GenBank) Arginyl-tRNA synthetase
+man:A11S_2191	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20] | (GenBank) Phenylalanyl-tRNA syntheta
+man:A11S_2196	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20] | (GenBank) Phenylalanyl-tRNA synthetas
+man:A11S_1409	K01892	histidyl-tRNA synthetase [EC:6.1.1.21] | (GenBank) Histidyl-tRNA synthetase
+man:A11S_1574	K01894	glutamyl-Q tRNA(Asp) synthetase [EC:6.1.1.-] | (GenBank) glutamyl-Q-tRNA synthetase
+man:A11S_410	K01895	acetyl-CoA synthetase [EC:6.2.1.1] | (GenBank) Acetyl-coenzyme A synthetase
+man:A11S_2003	K01897	long-chain acyl-CoA synthetase [EC:6.2.1.3] | (GenBank) Long-chain-fatty-acid--CoA ligase
+man:A11S_2198	K01897	long-chain acyl-CoA synthetase [EC:6.2.1.3] | (GenBank) Long-chain-fatty-acid--CoA ligase
+man:A11S_774	K01897	long-chain acyl-CoA synthetase [EC:6.2.1.3] | (GenBank) Long-chain-fatty-acid--CoA ligase
+man:A11S_567	K01902	succinyl-CoA synthetase alpha subunit [EC:6.2.1.5] | (GenBank) Succinyl-CoA ligase [ADP-formi
+man:A11S_565	K01903	succinyl-CoA synthetase beta subunit [EC:6.2.1.5] | (GenBank) Succinyl-CoA ligase [ADP-formin
+man:A11S_228	K01907	acetoacetyl-CoA synthetase [EC:6.2.1.16] | (GenBank) Acetoacetyl-CoA synthetase
+man:A11S_1318	K01915	glutamine synthetase [EC:6.3.1.2] | (GenBank) Glutamine synthetase type I
+man:A11S_1496	K01916	NAD+ synthase [EC:6.3.1.5] | (GenBank) NAD synthetase / Glutamine amidotransferase chain of N
+man:A11S_1808	K01921	D-alanine-D-alanine ligase [EC:6.3.2.4] | (GenBank) D-alanine--D-alanine ligase
+man:A11S_1771	K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6] | (GenBank) Phosphoribo
+man:A11S_1349	K01924	UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8] | (GenBank) UDP-N-acetylmuramate--alanine l
+man:A11S_1810	K01924	UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8] | (GenBank) UDP-N-acetylmuramate--alanine l
+man:A11S_1813	K01925	UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9] | (GenBank) UDP-N-acetylmuramoyl
+man:A11S_1816	K01928	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13] | (GenBan
+man:A11S_1815	K01929	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [EC:6.3.2.10] | (GenBank) UDP-N-ac
+man:A11S_1128	K01934	5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2] | (GenBank) 5-formyltetrahydrofolate cyclo
+man:A11S_1245	K01937	CTP synthase [EC:6.3.4.2] | (GenBank) CTP synthase
+man:A11S_507	K01939	adenylosuccinate synthase [EC:6.3.4.4] | (GenBank) Adenylosuccinate synthetase
+man:A11S_2406	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2] | (GenBank) glutamine amidotransferase clas
+man:A11S_2231	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2] | (GenBank) GMP synthase [glutamine-hydroly
+man:A11S_971	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4] | (GenBank) Asparagine synthetase [g
+man:A11S_978	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4] | (GenBank) Asparagine synthetase [g
+man:A11S_1514	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5] | (GenBank) Carbamoyl-phosphate synth
+man:A11S_1512	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5] | (GenBank) Carbamoyl-phosphate synth
+man:A11S_2213	K01961	acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14] | (GenBank) Biotin c
+man:A11S_1398	K01962	acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15] | (GenBank) A
+man:A11S_136	K01963	acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15] | (GenBank) Ac
+man:A11S_804	K01968	3-methylcrotonyl-CoA carboxylase alpha subunit [EC:6.4.1.4] | (GenBank) Methylcrotonyl-CoA ca
+man:A11S_801	K01969	3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4] | (GenBank) Methylcrotonyl-CoA car
+man:A11S_1798	K01972	DNA ligase (NAD+) [EC:6.5.1.2] | (GenBank) DNA ligase
+man:A11S_437	K01977	16S ribosomal RNA | (GenBank) 16S ribosomal RNA
+man:A11S_440	K01980	23S ribosomal RNA | (GenBank) 23S ribosomal RNA
+man:A11S_441	K01985	5S ribosomal RNA | (GenBank) 5S ribosomal RNA
+man:A11S_1472	K01990	ABC-2 type transport system ATP-binding protein | (GenBank) ABC transporter ATP-binding prote
+man:A11S_432	K01991	polysaccharide biosynthesis/export protein | (GenBank) Capsular polysaccharide export system
+man:A11S_2246	K02065	phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein | (GenBank) Methionin
+man:A11S_2247	K02066	phospholipid/cholesterol/gamma-HCH transport system permease protein | (GenBank) ABC-type tra
+man:A11S_2266	K02067	phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein | (GenBank) ABC
+man:A11S_2262	K02078	acyl carrier protein | (GenBank) Acyl carrier protein
+man:A11S_1152	K02108	F-type H+-transporting ATPase subunit a | (GenBank) ATP synthase A chain
+man:A11S_1149	K02109	F-type H+-transporting ATPase subunit b | (GenBank) ATP synthase B chain
+man:A11S_1150	K02109	F-type H+-transporting ATPase subunit b | (GenBank) ATP synthase B' chain
+man:A11S_1151	K02110	F-type H+-transporting ATPase subunit c | (GenBank) ATP synthase C chain
+man:A11S_590	K02111	F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2.2 7.2.2.1] | (GenBank) ATP synthase
+man:A11S_593	K02112	F-type H+/Na+-transporting ATPase subunit beta [EC:7.1.2.2 7.2.2.1] | (GenBank) ATP synthase
+man:A11S_589	K02113	F-type H+-transporting ATPase subunit delta | (GenBank) ATP synthase delta chain
+man:A11S_595	K02114	F-type H+-transporting ATPase subunit epsilon | (GenBank) ATP synthase epsilon chain
+man:A11S_591	K02115	F-type H+-transporting ATPase subunit gamma | (GenBank) ATP synthase gamma chain
+man:A11S_1153	K02116	ATP synthase protein I | (GenBank) ATP synthase protein I
+man:A11S_2214	K02160	acetyl-CoA carboxylase biotin carboxyl carrier protein | (GenBank) Biotin carboxyl carrier pr
+man:A11S_1701	K02192	bacterioferritin-associated ferredoxin | (GenBank) hypothetical protein
+man:A11S_1723	K02193	heme exporter protein A [EC:7.6.2.5] | (GenBank) ABC transporter involved in cytochrome c bio
+man:A11S_1724	K02194	heme exporter protein B | (GenBank) ABC transporter involved in cytochrome c biogenesis, CcmB
+man:A11S_1725	K02195	heme exporter protein C | (GenBank) Cytochrome c-type biogenesis protein CcmC, putative heme
+man:A11S_1726	K02196	heme exporter protein D | (GenBank) hypothetical protein
+man:A11S_1727	K02197	cytochrome c-type biogenesis protein CcmE | (GenBank) Cytochrome c-type biogenesis protein Cc
+man:A11S_1728	K02198	cytochrome c-type biogenesis protein CcmF | (GenBank) Cytochrome c heme lyase subunit CcmF
+man:A11S_1729	K02199	cytochrome c biogenesis protein CcmG, thiol:disulfide interchange protein DsbE | (GenBank) Cy
+man:A11S_1730	K02200	cytochrome c-type biogenesis protein CcmH | (GenBank) cytochrome C-type biogenesis protein Cy
+man:A11S_727	K02204	homoserine kinase type II [EC:2.7.1.39] | (GenBank) Homoserine kinase
+man:A11S_1734	K02221	YggT family protein | (GenBank) Integral membrane protein YggT, involved in response to extra
+man:A11S_1027	K02227	adenosylcobinamide-phosphate synthase [EC:6.3.1.10] | (GenBank) Adenosylcobinamide-phosphate
+man:A11S_1253	K02238	competence protein ComEC | (GenBank) ComEC/Rec2-related protein
+man:A11S_242	K02257	heme o synthase [EC:2.5.1.141] | (GenBank) Heme O synthase, protoheme IX farnesyltransferase,
+man:A11S_240	K02258	cytochrome c oxidase assembly protein subunit 11 | (GenBank) Cytochrome oxidase biogenesis pr
+man:A11S_346	K02259	heme a synthase [EC:1.17.99.9] | (GenBank) Heme A synthase, cytochrome oxidase biogenesis pro
+man:A11S_250	K02274	cytochrome c oxidase subunit I [EC:7.1.1.9] | (GenBank) Cytochrome c oxidase polypeptide I
+man:A11S_251	K02275	cytochrome c oxidase subunit II [EC:7.1.1.9] | (GenBank) Cytochrome c oxidase polypeptide II
+man:A11S_239	K02276	cytochrome c oxidase subunit III [EC:7.1.1.9] | (GenBank) Cytochrome c oxidase polypeptide II
+man:A11S_514	K02278	prepilin peptidase CpaA [EC:3.4.23.43] | (GenBank) pilus assembly protein prepilin peptidase
+man:A11S_515	K02279	pilus assembly protein CpaB | (GenBank) Flp pilus assembly protein RcpC/CpaB
+man:A11S_516	K02280	pilus assembly protein CpaC | (GenBank) Type II/IV secretion system secretin RcpA/CpaC, assoc
+man:A11S_517	K02281	pilus assembly protein CpaD | (GenBank) hypothetical protein
+man:A11S_518	K02282	pilus assembly protein CpaE | (GenBank) Type II/IV secretion system ATPase TadZ/CpaE, associa
+man:A11S_519	K02283	pilus assembly protein CpaF [EC:7.4.2.8] | (GenBank) Type II/IV secretion system ATP hydrolas
+man:A11S_360	K02313	chromosomal replication initiator protein | (GenBank) Chromosomal replication initiator prote
+man:A11S_2250	K02314	replicative DNA helicase [EC:5.6.2.3] | (GenBank) Replicative DNA helicase
+man:A11S_1509	K02316	DNA primase [EC:2.7.7.101] | (GenBank) DNA primase
+man:A11S_2182	K02335	DNA polymerase I [EC:2.7.7.7] | (GenBank) DNA polymerase I
+man:A11S_1273	K02337	DNA polymerase III subunit alpha [EC:2.7.7.7] | (GenBank) DNA polymerase III alpha subunit
+man:A11S_361	K02338	DNA polymerase III subunit beta [EC:2.7.7.7] | (GenBank) DNA polymerase III beta subunit
+man:A11S_183	K02339	DNA polymerase III subunit chi [EC:2.7.7.7] | (GenBank) DNA polymerase III chi subunit
+man:A11S_35	K02340	DNA polymerase III subunit delta [EC:2.7.7.7] | (GenBank) DNA polymerase III
+man:A11S_1202	K02341	DNA polymerase III subunit delta' [EC:2.7.7.7] | (GenBank) DNA polymerase III delta prime sub
+man:A11S_2404	K02342	DNA polymerase III subunit epsilon [EC:2.7.7.7] | (GenBank) DNA polymerase III epsilon subuni
+man:A11S_303	K02343	DNA polymerase III subunit gamma/tau [EC:2.7.7.7] | (GenBank) DNA polymerase III subunits gam
+man:A11S_770	K02346	DNA polymerase IV [EC:2.7.7.7] | (GenBank) DNA polymerase IV
+man:A11S_2060	K02355	elongation factor G | (GenBank) Translation elongation factor G
+man:A11S_185	K02356	elongation factor P | (GenBank) Translation elongation factor P
+man:A11S_1270	K02357	elongation factor Ts | (GenBank) Translation elongation factor Ts
+man:A11S_2059	K02358	elongation factor Tu | (GenBank) Translation elongation factor Tu
+man:A11S_2082	K02358	elongation factor Tu | (GenBank) Translation elongation factor Tu
+man:A11S_1260	K02372	3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59] | (GenBank) (3R)-hydroxymyrist
+man:A11S_474	K02377	GDP-L-fucose synthase [EC:1.1.1.271] | (GenBank) GDP-L-fucose synthetase
+man:A11S_1641	K02386	flagellar basal body P-ring formation protein FlgA | (GenBank) Flagellar basal-body P-ring fo
+man:A11S_1625	K02387	flagellar basal-body rod protein FlgB | (GenBank) Flagellar basal-body rod protein FlgB
+man:A11S_1624	K02388	flagellar basal-body rod protein FlgC | (GenBank) Flagellar basal-body rod protein FlgC
+man:A11S_379	K02388	flagellar basal-body rod protein FlgC | (GenBank) putative flagellar basal-body rod protein f
+man:A11S_1651	K02389	flagellar basal-body rod modification protein FlgD | (GenBank) Flagellar basal-body rod modif
+man:A11S_1652	K02390	flagellar hook protein FlgE | (GenBank) Flagellar hook protein FlgE
+man:A11S_1639	K02391	flagellar basal-body rod protein FlgF | (GenBank) Flagellar basal-body rod protein FlgF
+man:A11S_1640	K02392	flagellar basal-body rod protein FlgG | (GenBank) Flagellar basal-body rod protein FlgG
+man:A11S_1642	K02393	flagellar L-ring protein FlgH | (GenBank) Flagellar L-ring protein FlgH
+man:A11S_1647	K02394	flagellar P-ring protein FlgI | (GenBank) Flagellar P-ring protein FlgI
+man:A11S_1648	K02395	peptidoglycan hydrolase FlgJ | (GenBank) Chemotactic signal-response protein cheL
+man:A11S_2371	K02396	flagellar hook-associated protein 1 | (GenBank) Flagellar hook-associated protein FlgK
+man:A11S_2372	K02397	flagellar hook-associated protein 3 FlgL | (GenBank) hypothetical protein
+man:A11S_671	K02400	flagellar biosynthesis protein FlhA | (GenBank) Flagellar biosynthesis protein FlhA
+man:A11S_1618	K02401	flagellar biosynthesis protein FlhB | (GenBank) Flagellar biosynthesis protein FlhB
+man:A11S_668	K02404	flagellar biosynthesis protein FlhF | (GenBank) Flagellar biosynthesis protein FlhF
+man:A11S_1653	K02406	flagellin | (GenBank) Flagellar hook-associated protein FliD
+man:A11S_688	K02406	flagellin | (GenBank) Flagellar hook-associated protein FliD
+man:A11S_1623	K02408	flagellar hook-basal body complex protein FliE | (GenBank) Flagellar hook-basal body complex
+man:A11S_679	K02409	flagellar M-ring protein FliF | (GenBank) Flagellar M-ring protein FliF
+man:A11S_678	K02410	flagellar motor switch protein FliG | (GenBank) Flagellar motor switch protein FliG
+man:A11S_677	K02411	flagellar assembly protein FliH | (GenBank) FlbE protein
+man:A11S_662	K02412	flagellum-specific ATP synthase [EC:7.4.2.8] | (GenBank) Flagellum-specific ATP synthase FliI
+man:A11S_663	K02413	flagellar protein FliJ | (GenBank) hypothetical protein
+man:A11S_1637	K02415	flagellar protein FliL | (GenBank) Flagellar basal body-associated protein FliL
+man:A11S_954	K02415	flagellar protein FliL | (GenBank) hypothetical protein
+man:A11S_1636	K02416	flagellar motor switch protein FliM | (GenBank) Flagellar motor switch protein FliM
+man:A11S_676	K02417	flagellar motor switch protein FliN | (GenBank) Flagellar motor switch protein FliN
+man:A11S_1628	K02418	flagellar protein FliO/FliZ | (GenBank) hypothetical protein
+man:A11S_1629	K02419	flagellar biosynthesis protein FliP | (GenBank) Flagellar biosynthesis protein FliP
+man:A11S_1620	K02420	flagellar biosynthesis protein FliQ | (GenBank) Flagellar biosynthesis protein FliQ
+man:A11S_1619	K02421	flagellar biosynthesis protein FliR | (GenBank) Flagellar biosynthesis protein FliR
+man:A11S_1417	K02426	cysteine desulfuration protein SufE | (GenBank) Sulfur acceptor protein SufE for iron-sulfur
+man:A11S_2221	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166] | (GenBank) Cell division protei
+man:A11S_1016	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7] | (GenB
+man:A11S_1014	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7] | (GenB
+man:A11S_1017	K02435	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7] | (GenB
+man:A11S_1343	K02437	glycine cleavage system H protein | (GenBank) Glycine cleavage system H protein
+man:A11S_1846	K02454	general secretion pathway protein E [EC:7.4.2.8] | (GenBank) putative general secretion pathw
+man:A11S_1551	K02469	DNA gyrase subunit A [EC:5.6.2.2] | (GenBank) DNA gyrase subunit A
+man:A11S_364	K02470	DNA gyrase subunit B [EC:5.6.2.2] | (GenBank) DNA gyrase subunit B
+man:A11S_1923	K02471	vitamin B12/bleomycin/antimicrobial peptide transport system ATP-binding/permease protein | (
+man:A11S_809	K02471	vitamin B12/bleomycin/antimicrobial peptide transport system ATP-binding/permease protein | (
+man:A11S_1912	K02483	two-component system, OmpR family, response regulator | (GenBank) response regulator in two-c
+man:A11S_1958	K02483	two-component system, OmpR family, response regulator | (GenBank) response regulator OmpR
+man:A11S_1865	K02488	two-component system, cell cycle response regulator [EC:2.7.7.65] | (GenBank) Pole remodellin
+man:A11S_1176	K02488	two-component system, cell cycle response regulator [EC:2.7.7.65] | (GenBank) two-component r
+man:A11S_2105	K02488	two-component system, cell cycle response regulator [EC:2.7.7.65] | (GenBank) two-component r
+man:A11S_1359	K02493	release factor glutamine methyltransferase [EC:2.1.1.297] | (GenBank) Protein-N(5)-glutamine
+man:A11S_834	K02495	oxygen-independent coproporphyrinogen III oxidase [EC:1.3.98.3] | (GenBank) Coproporphyrinoge
+man:A11S_420	K02498	HemY protein | (GenBank) Uncharacterized protein EC-HemY, likely associated with heme metabol
+man:A11S_52	K02503	histidine triad (HIT) family protein | (GenBank) Bis(5'-nucleosyl)-tetraphosphatase (asymmetr
+man:A11S_1492	K02517	Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-] | (GenBank) Lipid A
+man:A11S_538	K02518	translation initiation factor IF-1 | (GenBank) Translation initiation factor 1
+man:A11S_1077	K02519	translation initiation factor IF-2 | (GenBank) Translation initiation factor 2
+man:A11S_112	K02520	translation initiation factor IF-3 | (GenBank) Translation initiation factor 3
+man:A11S_1661	K02523	octaprenyl-diphosphate synthase [EC:2.5.1.90] | (GenBank) Octaprenyl-diphosphate synthase / D
+man:A11S_1490	K02527	3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15] | (
+man:A11S_65	K02528	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182] | (GenBank) Dimet
+man:A11S_1498	K02533	tRNA/rRNA methyltransferase [EC:2.1.1.-] | (GenBank) tRNA:Cm32/Um32 methyltransferase
+man:A11S_1802	K02535	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108] | (GenBank) UDP-3
+man:A11S_1261	K02536	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191] | (GenBank) UDP-3-O
+man:A11S_675	K02556	chemotaxis protein MotA | (GenBank) Flagellar motor rotation protein MotA
+man:A11S_939	K02556	chemotaxis protein MotA | (GenBank) Flagellar motor rotation protein MotA
+man:A11S_1632	K02557	chemotaxis protein MotB | (GenBank) Flagellar motor rotation protein MotB
+man:A11S_938	K02557	chemotaxis protein MotB | (GenBank) Flagellar motor rotation protein MotB
+man:A11S_1811	K02563	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylg
+man:A11S_1095	K02564	glucosamine-6-phosphate deaminase [EC:3.5.99.6] | (GenBank) Glucosamine-6-phosphate deaminase
+man:A11S_828	K02575	MFS transporter, NNP family, nitrate/nitrite transporter | (GenBank) Nitrate/nitrite transpor
+man:A11S_1079	K02600	transcription termination/antitermination protein NusA | (GenBank) Transcription termination
+man:A11S_2073	K02601	transcription termination/antitermination protein NusG | (GenBank) Transcription antiterminat
+man:A11S_937	K02621	topoisomerase IV subunit A [EC:5.6.2.2] | (GenBank) Topoisomerase IV subunit A
+man:A11S_1322	K02622	topoisomerase IV subunit B [EC:5.6.2.2] | (GenBank) Topoisomerase IV subunit B
+man:A11S_513	K02651	pilus assembly protein Flp/PilA | (GenBank) hypothetical protein
+man:A11S_1477	K02652	type IV pilus assembly protein PilB | (GenBank) Type IV fimbrial assembly, ATPase PilB
+man:A11S_1476	K02653	type IV pilus assembly protein PilC | (GenBank) Type IV fimbrial assembly protein PilC
+man:A11S_1470	K02654	leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-] | (GenBank
+man:A11S_1850	K02654	leader peptidase (prepilin peptidase) / N-methyltransferase [EC:3.4.23.43 2.1.1.-] | (GenBank
+man:A11S_1469	K02669	twitching motility protein PilT | (GenBank) Twitching motility protein PilT
+man:A11S_1468	K02670	twitching motility protein PilU | (GenBank) Twitching motility protein PilT
+man:A11S_2326	K02687	ribosomal protein L11 methyltransferase [EC:2.1.1.-] | (GenBank) Ribosomal protein L11 methyl
+man:A11S_172	K02806	nitrogen PTS system EIIA component [EC:2.7.1.-] | (GenBank) PTS IIA-like nitrogen-regulatory
+man:A11S_1076	K02834	ribosome-binding factor A | (GenBank) Ribosome-binding factor A
+man:A11S_1361	K02835	peptide chain release factor 1 | (GenBank) Peptide chain release factor 1
+man:A11S_919	K02836	peptide chain release factor 2 | (GenBank) Peptide chain release factor 2
+man:A11S_1040	K02837	peptide chain release factor 3 | (GenBank) Peptide chain release factor 3
+man:A11S_1268	K02838	ribosome recycling factor | (GenBank) Ribosome recycling factor
+man:A11S_693	K02849	lipopolysaccharide heptosyltransferase III [EC:2.4.99.25] | (GenBank) ADP-heptose--lipooligos
+man:A11S_484	K02851	UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7
+man:A11S_1452	K02860	16S rRNA processing protein RimM | (GenBank) 16S rRNA processing protein RimM
+man:A11S_2070	K02863	large subunit ribosomal protein L1 | (GenBank) LSU ribosomal protein L1p (L10Ae)
+man:A11S_2067	K02864	large subunit ribosomal protein L10 | (GenBank) LSU ribosomal protein L10p (P0)
+man:A11S_2071	K02867	large subunit ribosomal protein L11 | (GenBank) LSU ribosomal protein L11p (L12e)
+man:A11S_982	K02871	large subunit ribosomal protein L13 | (GenBank) LSU ribosomal protein L13p (L13Ae)
+man:A11S_2047	K02874	large subunit ribosomal protein L14 | (GenBank) LSU ribosomal protein L14p (L23e)
+man:A11S_2038	K02876	large subunit ribosomal protein L15 | (GenBank) LSU ribosomal protein L15p (L27Ae)
+man:A11S_2050	K02878	large subunit ribosomal protein L16 | (GenBank) LSU ribosomal protein L16p (L10e)
+man:A11S_2030	K02879	large subunit ribosomal protein L17 | (GenBank) LSU ribosomal protein L17p
+man:A11S_2041	K02881	large subunit ribosomal protein L18 | (GenBank) LSU ribosomal protein L18p (L5e)
+man:A11S_1455	K02884	large subunit ribosomal protein L19 | (GenBank) LSU ribosomal protein L19p
+man:A11S_2054	K02886	large subunit ribosomal protein L2 | (GenBank) LSU ribosomal protein L2p (L8e)
+man:A11S_2189	K02887	large subunit ribosomal protein L20 | (GenBank) LSU ribosomal protein L20p
+man:A11S_1167	K02888	large subunit ribosomal protein L21 | (GenBank) LSU ribosomal protein L21p
+man:A11S_2052	K02890	large subunit ribosomal protein L22 | (GenBank) LSU ribosomal protein L22p (L17e)
+man:A11S_2055	K02892	large subunit ribosomal protein L23 | (GenBank) LSU ribosomal protein L23p (L23Ae)
+man:A11S_2046	K02895	large subunit ribosomal protein L24 | (GenBank) LSU ribosomal protein L24p (L26e)
+man:A11S_900	K02897	large subunit ribosomal protein L25 | (GenBank) LSU ribosomal protein L25p
+man:A11S_1166	K02899	large subunit ribosomal protein L27 | (GenBank) LSU ribosomal protein L27p
+man:A11S_1028	K02902	large subunit ribosomal protein L28 | (GenBank) LSU ribosomal protein L28p
+man:A11S_2049	K02904	large subunit ribosomal protein L29 | (GenBank) LSU ribosomal protein L29p (L35e)
+man:A11S_2057	K02906	large subunit ribosomal protein L3 | (GenBank) LSU ribosomal protein L3p (L3e)
+man:A11S_2039	K02907	large subunit ribosomal protein L30 | (GenBank) LSU ribosomal protein L30p (L7e)
+man:A11S_1116	K02909	large subunit ribosomal protein L31 | (GenBank) LSU ribosomal protein L31p
+man:A11S_960	K02911	large subunit ribosomal protein L32 | (GenBank) LSU ribosomal protein L32p
+man:A11S_1864	K02913	large subunit ribosomal protein L33 | (GenBank) LSU ribosomal protein L33p
+man:A11S_2352	K02914	large subunit ribosomal protein L34 | (GenBank) LSU ribosomal protein L34p
+man:A11S_2188	K02916	large subunit ribosomal protein L35 | (GenBank) LSU ribosomal protein L35p
+man:A11S_1781	K02919	large subunit ribosomal protein L36 | (GenBank) LSU ribosomal protein L36p
+man:A11S_2056	K02926	large subunit ribosomal protein L4 | (GenBank) LSU ribosomal protein L4p (L1e)
+man:A11S_2045	K02931	large subunit ribosomal protein L5 | (GenBank) LSU ribosomal protein L5p (L11e)
+man:A11S_2042	K02933	large subunit ribosomal protein L6 | (GenBank) LSU ribosomal protein L6p (L9e)
+man:A11S_2066	K02935	large subunit ribosomal protein L7/L12 | (GenBank) LSU ribosomal protein L7/L12 (P1/P2)
+man:A11S_2251	K02939	large subunit ribosomal protein L9 | (GenBank) LSU ribosomal protein L9p
+man:A11S_141	K02945	small subunit ribosomal protein S1 | (GenBank) SSU ribosomal protein S1p
+man:A11S_2058	K02946	small subunit ribosomal protein S10 | (GenBank) SSU ribosomal protein S10p (S20e)
+man:A11S_2032	K02948	small subunit ribosomal protein S11 | (GenBank) SSU ribosomal protein S11p (S14e)
+man:A11S_2062	K02950	small subunit ribosomal protein S12 | (GenBank) SSU ribosomal protein S12p (S23e)
+man:A11S_2033	K02952	small subunit ribosomal protein S13 | (GenBank) SSU ribosomal protein S13p (S18e)
+man:A11S_2044	K02954	small subunit ribosomal protein S14 | (GenBank) SSU ribosomal protein S14p (S29e)
+man:A11S_1074	K02956	small subunit ribosomal protein S15 | (GenBank) SSU ribosomal protein S15p (S13e)
+man:A11S_1451	K02959	small subunit ribosomal protein S16 | (GenBank) SSU ribosomal protein S16p
+man:A11S_2048	K02961	small subunit ribosomal protein S17 | (GenBank) SSU ribosomal protein S17p (S11e)
+man:A11S_2252	K02963	small subunit ribosomal protein S18 | (GenBank) SSU ribosomal protein S18p
+man:A11S_2053	K02965	small subunit ribosomal protein S19 | (GenBank) SSU ribosomal protein S19p (S15e)
+man:A11S_1271	K02967	small subunit ribosomal protein S2 | (GenBank) SSU ribosomal protein S2p (SAe)
+man:A11S_359	K02968	small subunit ribosomal protein S20 | (GenBank) SSU ribosomal protein S20p
+man:A11S_637	K02970	small subunit ribosomal protein S21 | (GenBank) SSU ribosomal protein S21p
+man:A11S_2051	K02982	small subunit ribosomal protein S3 | (GenBank) SSU ribosomal protein S3p (S3e)
+man:A11S_1502	K02986	small subunit ribosomal protein S4 | (GenBank) SSU ribosomal protein S4p (S9e)
+man:A11S_2040	K02988	small subunit ribosomal protein S5 | (GenBank) SSU ribosomal protein S5p (S2e)
+man:A11S_2253	K02990	small subunit ribosomal protein S6 | (GenBank) SSU ribosomal protein S6p
+man:A11S_2061	K02992	small subunit ribosomal protein S7 | (GenBank) SSU ribosomal protein S7p (S5e)
+man:A11S_2043	K02994	small subunit ribosomal protein S8 | (GenBank) SSU ribosomal protein S8p (S15Ae)
+man:A11S_983	K02996	small subunit ribosomal protein S9 | (GenBank) SSU ribosomal protein S9p (S16e)
+man:A11S_2031	K03040	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6] | (GenBank) DNA-directed RNA polymeras
+man:A11S_2064	K03043	DNA-directed RNA polymerase subunit beta [EC:2.7.7.6] | (GenBank) DNA-directed RNA polymerase
+man:A11S_2063	K03046	DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6] | (GenBank) DNA-directed RNA polymeras
+man:A11S_2211	K03060	DNA-directed RNA polymerase subunit omega [EC:2.7.7.6] | (GenBank) DNA-directed RNA polymeras
+man:A11S_1390	K03070	preprotein translocase subunit SecA [EC:7.4.2.8] | (GenBank) Protein export cytoplasm protein
+man:A11S_2401	K03071	preprotein translocase subunit SecB | (GenBank) Protein export cytoplasm chaperone protein (S
+man:A11S_754	K03072	preprotein translocase subunit SecD | (GenBank) Protein-export membrane protein SecD
+man:A11S_2074	K03073	preprotein translocase subunit SecE | (GenBank) Preprotein translocase subunit SecE
+man:A11S_755	K03074	preprotein translocase subunit SecF | (GenBank) Protein-export membrane protein SecF
+man:A11S_1246	K03075	preprotein translocase subunit SecG | (GenBank) Preprotein translocase subunit SecG
+man:A11S_2037	K03076	preprotein translocase subunit SecY | (GenBank) Preprotein translocase secY subunit
+man:A11S_1508	K03086	RNA polymerase primary sigma factor | (GenBank) RNA polymerase sigma factor RpoD
+man:A11S_1426	K03089	RNA polymerase sigma-32 factor | (GenBank) RNA polymerase sigma factor RpoH-related protein
+man:A11S_156	K03092	RNA polymerase sigma-54 factor | (GenBank) RNA polymerase sigma-54 factor RpoN
+man:A11S_2204	K03100	signal peptidase I [EC:3.4.21.89] | (GenBank) Signal peptidase I
+man:A11S_2011	K03101	signal peptidase II [EC:3.4.23.36] | (GenBank) Lipoprotein signal peptidase
+man:A11S_1450	K03106	signal recognition particle subunit SRP54 [EC:3.6.5.4] | (GenBank) Signal recognition particl
+man:A11S_1437	K03110	fused signal recognition particle receptor | (GenBank) Signal recognition particle receptor p
+man:A11S_1556	K03111	single-strand DNA-binding protein | (GenBank) Single-stranded DNA-binding protein
+man:A11S_555	K03116	sec-independent protein translocase protein TatA | (GenBank) Twin-arginine translocation prot
+man:A11S_556	K03117	sec-independent protein translocase protein TatB | (GenBank) hypothetical protein
+man:A11S_557	K03118	sec-independent protein translocase protein TatC | (GenBank) Twin-arginine translocation prot
+man:A11S_1858	K03168	DNA topoisomerase I [EC:5.6.2.1] | (GenBank) DNA topoisomerase I
+man:A11S_1075	K03177	tRNA pseudouridine55 synthase [EC:5.4.99.25] | (GenBank) tRNA pseudouridine synthase B
+man:A11S_257	K03179	4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39] | (GenBank) 4-hydroxybenzoate polypreny
+man:A11S_877	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:
+man:A11S_1580	K03185	2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-] | (GenBank) 2-octaprenyl-6-methoxyphe
+man:A11S_2356	K03185	2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-] | (GenBank) 2-octaprenyl-6-methoxyphe
+man:A11S_428	K03208	putative colanic acid biosynthesis glycosyltransferase WcaI | (GenBank) colanic acid biosynth
+man:A11S_753	K03210	preprotein translocase subunit YajC | (GenBank) Preprotein translocase subunit YajC
+man:A11S_956	K03215	23S rRNA (uracil1939-C5)-methyltransferase [EC:2.1.1.190] | (GenBank) 23S rRNA (Uracil-5-) -m
+man:A11S_1597	K03216	tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.207] | (GenBank) tRNA (cytosine34-2
+man:A11S_2349	K03217	YidC/Oxa1 family membrane protein insertase | (GenBank) Inner membrane protein translocase co
+man:A11S_2177	K03218	23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185] | (GenBank) RNA 2'-O ribose me
+man:A11S_2293	K03272	D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.
+man:A11S_895	K03274	ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20] | (GenBank) ADP-L-glycero-D-manno-hep
+man:A11S_1065	K03282	large conductance mechanosensitive channel | (GenBank) Large-conductance mechanosensitive cha
+man:A11S_914	K03286	OmpA-OmpF porin, OOP family | (GenBank) OmpA/MotB domain protein
+man:A11S_1667	K03286	OmpA-OmpF porin, OOP family | (GenBank) peptidoglycan-associated protein
+man:A11S_1339	K03307	solute:Na+ symporter, SSS family | (GenBank) sodium-solute symporter, putative
+man:A11S_1092	K03310	alanine or glycine:cation symporter, AGCS family | (GenBank) Na(+)-linked D-alanine glycine p
+man:A11S_1740	K03313	Na+:H+ antiporter, NhaA family | (GenBank) Na+/H+ antiporter NhaA type
+man:A11S_27	K03316	monovalent cation:H+ antiporter, CPA1 family | (GenBank) Na+/H+ antiporter
+man:A11S_83	K03320	ammonium transporter, Amt family | (GenBank) Ammonium transporter
+man:A11S_1180	K03321	sulfate permease, SulP family | (GenBank) Sulfate permease
+man:A11S_1591	K03324	phosphate:Na+ symporter | (GenBank) Sodium-dependent phosphate transporter
+man:A11S_2085	K03406	methyl-accepting chemotaxis protein | (GenBank) Methyl-accepting chemotaxis protein
+man:A11S_2120	K03406	methyl-accepting chemotaxis protein | (GenBank) Methyl-accepting chemotaxis protein
+man:A11S_1009	K03406	methyl-accepting chemotaxis protein | (GenBank) Methyl-accepting chemotaxis protein I (serine
+man:A11S_1229	K03406	methyl-accepting chemotaxis protein | (GenBank) methyl-accepting chemotaxis sensory transduce
+man:A11S_1957	K03406	methyl-accepting chemotaxis protein | (GenBank) methyl-accepting chemotaxis sensory transduce
+man:A11S_446	K03406	methyl-accepting chemotaxis protein | (GenBank) methyl-accepting chemotaxis sensory transduce
+man:A11S_1954	K03407	two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3] | (GenBank) Signal
+man:A11S_450	K03407	two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3] | (GenBank) Signal
+man:A11S_1953	K03408	purine-binding chemotaxis protein CheW | (GenBank) Positive regulator of CheA protein activit
+man:A11S_451	K03408	purine-binding chemotaxis protein CheW | (GenBank) Positive regulator of CheA protein activit
+man:A11S_1951	K03412	two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1
+man:A11S_452	K03412	two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1
+man:A11S_1952	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) Chemotaxis regul
+man:A11S_1956	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) Chemotaxis regul
+man:A11S_448	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) Chemotaxis regul
+man:A11S_628	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) Chemotaxis regul
+man:A11S_1131	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) response regulat
+man:A11S_467	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) response regulat
+man:A11S_703	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) response regulat
+man:A11S_96	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) response regulat
+man:A11S_2106	K03413	two-component system, chemotaxis family, chemotaxis protein CheY | (GenBank) Two-component re
+man:A11S_1955	K03414	chemotaxis protein CheZ | (GenBank) Chemotaxis protein
+man:A11S_782	K03417	methylisocitrate lyase [EC:4.1.3.30] | (GenBank) Methylisocitrate lyase
+man:A11S_1204	K03424	TatD DNase family protein [EC:3.1.21.-] | (GenBank) Putative deoxyribonuclease YcfH
+man:A11S_504	K03431	phosphoglucosamine mutase [EC:5.4.2.10] | (GenBank) Phosphoglucosamine mutase
+man:A11S_1819	K03438	16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199] | (GenBank) rRNA small subunit me
+man:A11S_1082	K03439	tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33] | (GenBank) tRNA (guanine46-N7-)-methyltra
+man:A11S_1007	K03455	monovalent cation:H+ antiporter-2, CPA2 family | (GenBank) Glutathione-regulated potassium-ef
+man:A11S_176	K03466	DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family | (GenBank) Cell division protein FtsK
+man:A11S_728	K03469	ribonuclease HI [EC:3.1.26.4] | (GenBank) Ribonuclease HI
+man:A11S_1162	K03470	ribonuclease HII [EC:3.1.26.4] | (GenBank) Ribonuclease HII
+man:A11S_23	K03495	tRNA uridine 5-carboxymethylaminomethyl modification enzyme | (GenBank) tRNA uridine 5-carbox
+man:A11S_25	K03496	chromosome partitioning protein | (GenBank) Chromosome (plasmid) partitioning protein ParA /
+man:A11S_26	K03497	ParB family transcriptional regulator, chromosome partitioning protein | (GenBank) Chromosome
+man:A11S_913	K03498	trk/ktr system potassium uptake protein | (GenBank) Potassium uptake protein TrkH
+man:A11S_1216	K03499	trk/ktr system potassium uptake protein | (GenBank) Trk system potassium uptake protein TrkA
+man:A11S_2227	K03500	16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176] | (GenBank) Ribosomal RNA small su
+man:A11S_24	K03501	16S rRNA (guanine527-N7)-methyltransferase [EC:2.1.1.170] | (GenBank) rRNA small subunit meth
+man:A11S_1483	K03521	electron transfer flavoprotein beta subunit | (GenBank) Electron transfer flavoprotein, beta
+man:A11S_1484	K03522	electron transfer flavoprotein alpha subunit | (GenBank) Electron transfer flavoprotein, alph
+man:A11S_1281	K03524	BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxy
+man:A11S_1365	K03526	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3] | (GenBank) 1-hy
+man:A11S_724	K03527	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1.17.7.4] | (GenBank) 4-hydroxy-3-m
+man:A11S_1154	K03529	chromosome segregation protein | (GenBank) Chromosome partition protein smc
+man:A11S_1311	K03530	DNA-binding protein HU-beta | (GenBank) DNA-binding protein HU-beta
+man:A11S_814	K03530	DNA-binding protein HU-beta | (GenBank) histone-like DNA-binding protein
+man:A11S_1803	K03531	cell division protein FtsZ | (GenBank) Cell division protein FtsZ
+man:A11S_2351	K03536	ribonuclease P protein component [EC:3.1.26.5] | (GenBank) RNase P protein component
+man:A11S_1418	K03544	ATP-dependent Clp protease ATP-binding subunit ClpX | (GenBank) ATP-dependent Clp protease AT
+man:A11S_1314	K03545	trigger factor | (GenBank) Cell division trigger factor
+man:A11S_1134	K03550	holliday junction DNA helicase RuvA [EC:5.6.2.4] | (GenBank) Holliday junction DNA helicase R
+man:A11S_1135	K03551	holliday junction DNA helicase RuvB [EC:5.6.2.4] | (GenBank) Holliday junction DNA helicase R
+man:A11S_1612	K03553	recombination protein RecA | (GenBank) RecA protein
+man:A11S_874	K03555	DNA mismatch repair protein MutS | (GenBank) DNA mismatch repair protein MutS
+man:A11S_326	K03558	membrane protein required for colicin V production | (GenBank) Colicin V production protein
+man:A11S_1138	K03560	biopolymer transport protein TolR | (GenBank) Biopolymer transport protein ExbD/TolR
+man:A11S_1137	K03562	biopolymer transport protein TolQ | (GenBank) MotA/TolQ/ExbB proton channel family protein
+man:A11S_1990	K03564	thioredoxin-dependent peroxiredoxin [EC:1.11.1.24] | (GenBank) Thiol peroxidase, Bcp-type
+man:A11S_910	K03565	regulatory protein | (GenBank) Regulatory protein RecX
+man:A11S_244	K03568	TldD protein | (GenBank) TldD protein, part of proposed TldE/TldD proteolytic complex
+man:A11S_1780	K03569	rod shape-determining protein MreB and related proteins | (GenBank) Rod shape-determining pro
+man:A11S_1779	K03570	rod shape-determining protein MreC | (GenBank) Rod shape-determining protein MreC
+man:A11S_1778	K03571	rod shape-determining protein MreD | (GenBank) Rod shape-determining protein MreD
+man:A11S_2020	K03572	DNA mismatch repair protein MutL | (GenBank) DNA mismatch repair protein MutL
+man:A11S_1388	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55] | (GenBank) 5-methyl-dCTP pyrophosphohydrolase
+man:A11S_1550	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55] | (GenBank) NUDIX hydrolase, MutT
+man:A11S_1159	K03575	A/G-specific adenine glycosylase [EC:3.2.2.31] | (GenBank) A/G-specific adenine glycosylase
+man:A11S_936	K03584	DNA repair protein RecO (recombination protein O) | (GenBank) DNA recombination and repair pr
+man:A11S_1178	K03585	membrane fusion protein, multidrug efflux system | (GenBank) putative RND efflux membrane fus
+man:A11S_2129	K03585	membrane fusion protein, multidrug efflux system | (GenBank) RND efflux system, membrane fusi
+man:A11S_1818	K03586	cell division protein FtsL | (GenBank) Periplasmic protein TonB
+man:A11S_1817	K03587	cell division protein FtsI (penicillin-binding protein 3) [EC:3.4.16.4] | (GenBank) Cell divi
+man:A11S_1812	K03588	cell division protein FtsW | (GenBank) Cell division protein FtsW
+man:A11S_1807	K03589	cell division protein FtsQ | (GenBank) Cell division protein FtsQ
+man:A11S_1806	K03590	cell division protein FtsA | (GenBank) Cell division protein FtsA
+man:A11S_245	K03592	PmbA protein | (GenBank) TldE/PmbA protein, part of proposed TldE/TldD proteolytic complex
+man:A11S_389	K03593	ATP-binding protein involved in chromosome partitioning | (GenBank) Scaffold protein for [4Fe
+man:A11S_2202	K03595	GTPase | (GenBank) GTP-binding protein Era
+man:A11S_618	K03596	GTP-binding protein LepA | (GenBank) Translation elongation factor LepA
+man:A11S_200	K03601	exodeoxyribonuclease VII large subunit [EC:3.1.11.6] | (GenBank) Exodeoxyribonuclease VII lar
+man:A11S_719	K03602	exodeoxyribonuclease VII small subunit [EC:3.1.11.6] | (GenBank) Exodeoxyribonuclease VII sma
+man:A11S_961	K03621	phosphate acyltransferase [EC:2.3.1.274] | (GenBank) Phosphate:acyl-ACP acyltransferase PlsX
+man:A11S_1519	K03624	transcription elongation factor GreA | (GenBank) Transcription elongation factor GreA
+man:A11S_952	K03625	transcription antitermination protein NusB | (GenBank) Transcription termination protein NusB
+man:A11S_5	K03628	transcription termination factor Rho | (GenBank) Transcription termination factor Rho
+man:A11S_362	K03629	DNA replication and repair protein RecF | (GenBank) DNA recombination and repair protein RecF
+man:A11S_1699	K03630	DNA repair protein RadC | (GenBank) DNA repair protein RadC
+man:A11S_1799	K03631	DNA repair protein RecN (Recombination protein N) | (GenBank) DNA repair protein RecN
+man:A11S_839	K03637	cyclic pyranopterin monophosphate synthase [EC:4.6.1.17] | (GenBank) Molybdenum cofactor bios
+man:A11S_838	K03639	GTP 3',8-cyclase [EC:4.1.99.22] | (GenBank) Molybdenum cofactor biosynthesis protein MoaA
+man:A11S_500	K03640	peptidoglycan-associated lipoprotein | (GenBank) 18K peptidoglycan-associated outer membrane
+man:A11S_1140	K03641	TolB protein | (GenBank) tolB protein precursor
+man:A11S_1199	K03642	rare lipoprotein A | (GenBank) Rare lipoprotein A precursor
+man:A11S_1750	K03642	rare lipoprotein A | (GenBank) Rare lipoprotein A precursor
+man:A11S_34	K03643	LPS-assembly lipoprotein | (GenBank) hypothetical protein
+man:A11S_1223	K03644	lipoyl synthase [EC:2.8.1.8] | (GenBank) Lipoate synthase
+man:A11S_1272	K03648	uracil-DNA glycosylase [EC:3.2.2.27] | (GenBank) Uracil-DNA glycosylase, family 1
+man:A11S_19	K03650	tRNA modification GTPase [EC:3.6.-.-] | (GenBank) GTPase and tRNA-U34 5-formylation enzyme Tr
+man:A11S_758	K03651	3',5'-cyclic-AMP phosphodiesterase [EC:3.1.4.53] | (GenBank) hypothetical protein
+man:A11S_824	K03654	ATP-dependent DNA helicase RecQ [EC:5.6.2.4] | (GenBank) ATP-dependent DNA helicase RecQ
+man:A11S_1539	K03655	ATP-dependent DNA helicase RecG [EC:5.6.2.4] | (GenBank) ATP-dependent DNA helicase RecG
+man:A11S_62	K03657	ATP-dependent DNA helicase UvrD/PcrA [EC:5.6.2.4] | (GenBank) ATP-dependent DNA helicase UvrD
+man:A11S_1610	K03664	SsrA-binding protein | (GenBank) tmRNA-binding protein SmpB
+man:A11S_1212	K03665	GTPase | (GenBank) GTP-binding protein HflX
+man:A11S_1213	K03666	host factor-I protein | (GenBank) RNA-binding protein Hfq
+man:A11S_117	K03671	thioredoxin 1 | (GenBank) rhioredoxin
+man:A11S_1579	K03676	glutaredoxin 3 | (GenBank) Glutaredoxin, GrxC
+man:A11S_1874	K03684	ribonuclease D [EC:3.1.13.5] | (GenBank) Ribonuclease D
+man:A11S_161	K03684	ribonuclease D [EC:3.1.13.5] | (GenBank) Ribonuclease D related protein
+man:A11S_576	K03684	ribonuclease D [EC:3.1.13.5] | (GenBank) Ribonuclease D related protein
+man:A11S_2203	K03685	ribonuclease III [EC:3.1.26.3] | (GenBank) Ribonuclease III
+man:A11S_1683	K03686	molecular chaperone DnaJ | (GenBank) Chaperone protein DnaJ
+man:A11S_1679	K03687	molecular chaperone GrpE | (GenBank) Heat shock protein GrpE
+man:A11S_2284	K03694	ATP-dependent Clp protease ATP-binding subunit ClpA | (GenBank) ATP-dependent Clp protease AT
+man:A11S_2285	K03694	ATP-dependent Clp protease ATP-binding subunit ClpA | (GenBank) ATP-dependent Clp protease AT
+man:A11S_1557	K03694	ATP-dependent Clp protease ATP-binding subunit ClpA | (GenBank) ATP-dependent Clp protease, A
+man:A11S_1558	K03694	ATP-dependent Clp protease ATP-binding subunit ClpA | (GenBank) ClpB protein
+man:A11S_1356	K03695	ATP-dependent Clp protease ATP-binding subunit ClpB | (GenBank) ClpB protein
+man:A11S_1392	K03699	magnesium and cobalt exporter, CNNM family | (GenBank) Co2 transporter containing CBS domains
+man:A11S_2116	K03699	magnesium and cobalt exporter, CNNM family | (GenBank) Hemolysins-related proteins containing
+man:A11S_1559	K03701	excinuclease ABC subunit A | (GenBank) Excinuclease ABC subunit A
+man:A11S_612	K03702	excinuclease ABC subunit B | (GenBank) Excinuclease ABC subunit B
+man:A11S_1691	K03703	excinuclease ABC subunit C | (GenBank) Excinuclease ABC subunit C
+man:A11S_2200	K03704	cold shock protein | (GenBank) Cold shock protein
+man:A11S_1346	K03704	cold shock protein | (GenBank) Cold shock protein CspA
+man:A11S_272	K03704	cold shock protein | (GenBank) Cold shock protein CspA
+man:A11S_1677	K03705	heat-inducible transcriptional repressor | (GenBank) Heat-inducible transcription repressor H
+man:A11S_1035	K03711	Fur family transcriptional regulator, ferric uptake regulator | (GenBank) Ferric uptake regul
+man:A11S_599	K03722	ATP-dependent DNA helicase DinG [EC:5.6.2.3] | (GenBank) DinG family ATP-dependent helicase Y
+man:A11S_1533	K03723	transcription-repair coupling factor (superfamily II helicase) [EC:5.6.2.4] | (GenBank) Trans
+man:A11S_579	K03733	integrase/recombinase XerC | (GenBank) Tyrosine recombinase XerC
+man:A11S_1221	K03743	nicotinamide-nucleotide amidase [EC:3.5.1.42] | (GenBank) Protein Implicated in DNA repair fu
+man:A11S_2381	K03744	LemA protein | (GenBank) LemA protein
+man:A11S_376	K03745	SlyX protein | (GenBank) hypothetical protein
+man:A11S_826	K03750	molybdopterin molybdotransferase [EC:2.10.1.1] | (GenBank) Molybdopterin biosynthesis protein
+man:A11S_841	K03752	molybdenum cofactor guanylyltransferase [EC:2.7.7.77] | (GenBank) Molybdopterin-guanine dinuc
+man:A11S_1389	K03769	peptidyl-prolyl cis-trans isomerase C [EC:5.2.1.8] | (GenBank) Foldase protein PrsA precursor
+man:A11S_833	K03769	peptidyl-prolyl cis-trans isomerase C [EC:5.2.1.8] | (GenBank) Peptidyl-prolyl cis-trans isom
+man:A11S_1249	K03770	peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8] | (GenBank) Peptidyl-prolyl cis-trans isom
+man:A11S_64	K03771	peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8] | (GenBank) Survival protein SurA precu
+man:A11S_2117	K03782	catalase-peroxidase [EC:1.11.1.21] | (GenBank) Catalase / Peroxidase
+man:A11S_1824	K03783	purine-nucleoside phosphorylase [EC:2.4.2.1] | (GenBank) Purine nucleoside phosphorylase
+man:A11S_2215	K03786	3-dehydroquinate dehydratase II [EC:4.2.1.10] | (GenBank) 3-dehydroquinate dehydratase II
+man:A11S_48	K03789	[ribosomal protein S18]-alanine N-acetyltransferase [EC:2.3.1.266] | (GenBank) GCN5-related N
+man:A11S_2241	K03790	[ribosomal protein S5]-alanine N-acetyltransferase [EC:2.3.1.267] | (GenBank) Ribosomal-prote
+man:A11S_247	K03797	carboxyl-terminal processing protease [EC:3.4.21.102] | (GenBank) C-terminal processing pepti
+man:A11S_249	K03797	carboxyl-terminal processing protease [EC:3.4.21.102] | (GenBank) C-terminal processing pepti
+man:A11S_1143	K03797	carboxyl-terminal processing protease [EC:3.4.21.102] | (GenBank) Carboxyl-terminal protease
+man:A11S_246	K03797	carboxyl-terminal processing protease [EC:3.4.21.102] | (GenBank) Carboxyl-terminal protease
+man:A11S_248	K03797	carboxyl-terminal processing protease [EC:3.4.21.102] | (GenBank) Carboxyl-terminal protease
+man:A11S_2402	K03798	cell division protease FtsH [EC:3.4.24.-] | (GenBank) Cell division protein FtsH
+man:A11S_2403	K03798	cell division protease FtsH [EC:3.4.24.-] | (GenBank) Cell division protein FtsH
+man:A11S_503	K03798	cell division protease FtsH [EC:3.4.24.-] | (GenBank) Cell division protein FtsH
+man:A11S_2382	K03799	heat shock protein HtpX [EC:3.4.24.-] | (GenBank) Heat shock protein HtpX
+man:A11S_1255	K03799	heat shock protein HtpX [EC:3.4.24.-] | (GenBank) hypothetical protein
+man:A11S_1854	K03799	heat shock protein HtpX [EC:3.4.24.-] | (GenBank) peptidase M48, Ste24p
+man:A11S_638	K03799	heat shock protein HtpX [EC:3.4.24.-] | (GenBank) peptidase M48, Ste24p
+man:A11S_1913	K03799	heat shock protein HtpX [EC:3.4.24.-] | (GenBank) putative protease htpX-like protein
+man:A11S_2380	K03805	thiol:disulfide interchange protein DsbG | (GenBank) thiol:disulfide interchange protein
+man:A11S_1085	K03820	apolipoprotein N-acyltransferase [EC:2.3.1.269] | (GenBank) Apolipoprotein N-acyltransferase
+man:A11S_924	K03821	poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC [EC:2.3.1.304] | (GenBank) Polyhydroxyal
+man:A11S_986	K03821	poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC [EC:2.3.1.304] | (GenBank) Polyhydroxyal
+man:A11S_1603	K03924	MoxR-like ATPase [EC:3.6.3.-] | (GenBank) ATPase, MoxR family
+man:A11S_1820	K03925	transcriptional regulator MraZ | (GenBank) Cell division protein MraZ
+man:A11S_1340	K03932	polyhydroxybutyrate depolymerase | (GenBank) putative lipoprotein
+man:A11S_1296	K03943	NADH dehydrogenase (ubiquinone) flavoprotein 2 [EC:7.1.1.2] | (GenBank) NADH-ubiquinone oxido
+man:A11S_163	K03975	membrane-associated protein | (GenBank) DedA protein
+man:A11S_331	K03977	GTPase | (GenBank) GTP-binding protein EngA
+man:A11S_2348	K03978	GTP-binding protein | (GenBank) GTP-binding protein EngB
+man:A11S_1165	K03979	GTPase [EC:3.6.5.-] | (GenBank) GTP-binding protein Obg
+man:A11S_879	K03980	putative peptidoglycan lipid II flippase | (GenBank) putative peptidoglycan lipid II flippase
+man:A11S_2334	K04042	bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosamine-1-phosphate N-acetyltran
+man:A11S_1682	K04043	molecular chaperone DnaK | (GenBank) Chaperone protein DnaK
+man:A11S_393	K04047	starvation-inducible DNA-binding protein | (GenBank) Non-specific DNA-binding protein Dps / I
+man:A11S_1626	K04061	flagellar biosynthesis protein | (GenBank) putative-like protein of the cytoplasmic domain of
+man:A11S_616	K04063	lipoyl-dependent peroxiredoxin [EC:1.11.1.28] | (GenBank) Organic hydroperoxide resistance pr
+man:A11S_585	K04066	primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:5.6.2.4] | (GenBan
+man:A11S_847	K04069	pyruvate formate lyase activating enzyme [EC:1.97.1.4] | (GenBank) Ribonucleotide reductase o
+man:A11S_502	K04075	tRNA(Ile)-lysidine synthase [EC:6.3.4.19] | (GenBank) tRNA(Ile)-lysidine synthetase
+man:A11S_355	K04077	chaperonin GroEL [EC:5.6.1.7] | (GenBank) Heat shock protein 60 family chaperone GroEL
+man:A11S_354	K04078	chaperonin GroES | (GenBank) Heat shock protein 60 family co-chaperone GroES
+man:A11S_708	K04079	molecular chaperone HtpG | (GenBank) Chaperone protein HtpG
+man:A11S_911	K04083	molecular chaperone Hsp33 | (GenBank) Hsp33-like chaperonin
+man:A11S_90	K04086	ATP-dependent Clp protease ATP-binding subunit ClpL | (GenBank) ATP-dependent Clp protease AT
+man:A11S_387	K04087	modulator of FtsH protease HflC | (GenBank) HflC protein
+man:A11S_388	K04088	modulator of FtsH protease HflK | (GenBank) HflK protein
+man:A11S_808	K04090	indolepyruvate ferredoxin oxidoreductase [EC:1.2.7.8] | (GenBank) Indolepyruvate ferredoxin o
+man:A11S_766	K04094	methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase [EC:2.1.1.74] | (GenBank) tRNA:
+man:A11S_1855	K04096	DNA processing protein | (GenBank) Rossmann fold nucleotide-binding protein Smf possibly invo
+man:A11S_324	K04485	DNA repair protein RadA/Sms | (GenBank) DNA repair protein RadA
+man:A11S_1186	K04487	cysteine desulfurase [EC:2.8.1.7] | (GenBank) Cysteine desulfurase
+man:A11S_1993	K04487	cysteine desulfurase [EC:2.8.1.7] | (GenBank) Cysteine desulfurase
+man:A11S_1529	K04518	prephenate dehydratase [EC:4.2.1.51] | (GenBank) Prephenate dehydratase
+man:A11S_667	K04562	flagellar biosynthesis protein FlhG | (GenBank) Flagellar synthesis regulator FleN
+man:A11S_759	K04564	superoxide dismutase, Fe-Mn family [EC:1.15.1.1] | (GenBank) Superoxide dismutase [Fe]
+man:A11S_603	K04567	lysyl-tRNA synthetase, class II [EC:6.1.1.6] | (GenBank) Lysyl-tRNA synthetase (class II)
+man:A11S_1326	K04744	LPS-assembly protein | (GenBank) Outer membrane protein Imp, required for envelope biogenesis
+man:A11S_2355	K04752	nitrogen regulatory protein P-II 2 | (GenBank) Nitrogen regulatory protein P-II
+man:A11S_190	K04754	phospholipid-binding lipoprotein MlaA | (GenBank) Lipoprotein
+man:A11S_1994	K04755	ferredoxin, 2Fe-2S | (GenBank) Ferredoxin, 2Fe-2S
+man:A11S_351	K04755	ferredoxin, 2Fe-2S | (GenBank) Ferredoxin, 2Fe-2S
+man:A11S_490	K04756	lipoyl-dependent peroxiredoxin subunit D [EC:1.11.1.28] | (GenBank) Alkylhydroperoxidase prot
+man:A11S_377	K04760	transcription elongation factor GreB | (GenBank) Transcription elongation factor GreB
+man:A11S_488	K04761	LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator | (GenBank
+man:A11S_1397	K04763	integrase/recombinase XerD | (GenBank) Tyrosine recombinase XerD
+man:A11S_963	K04764	integration host factor subunit alpha | (GenBank) Integration host factor alpha subunit
+man:A11S_1208	K04765	nucleoside triphosphate diphosphatase [EC:3.6.1.9] | (GenBank) Nucleoside triphosphate pyroph
+man:A11S_385	K04771	serine protease Do [EC:3.4.21.107] | (GenBank) HtrA protease/chaperone protein
+man:A11S_714	K04773	protease IV [EC:3.4.21.-] | (GenBank) signal peptide peptidase SppA, 67K type
+man:A11S_1922	K05349	beta-glucosidase [EC:3.2.1.21] | (GenBank) Periplasmic beta-glucosidase
+man:A11S_2243	K05366	penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4] | (GenBank) Multimodular transpeptidase
+man:A11S_732	K05366	penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4] | (GenBank) Multimodular transpeptidase
+man:A11S_1777	K05515	penicillin-binding protein 2 [EC:3.4.16.4] | (GenBank) Penicillin-binding protein 2 (PBP-2)
+man:A11S_918	K05520	protease I [EC:3.5.1.124] | (GenBank) ThiJ/PfpI family protein
+man:A11S_1423	K05524	ferredoxin | (GenBank) 4Fe-4S ferredoxin, iron-sulfur binding protein
+man:A11S_1404	K05527	BolA family transcriptional regulator, general stress-responsive regulator | (GenBank) Cell d
+man:A11S_1058	K05539	tRNA-dihydrouridine synthase A [EC:1.-.-.-] | (GenBank) tRNA dihydrouridine synthase A
+man:A11S_2076	K05540	tRNA-dihydrouridine synthase B [EC:1.-.-.-] | (GenBank) tRNA dihydrouridine synthase B
+man:A11S_1347	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13] | (GenBank) Cold-shock DEAD-box protein A
+man:A11S_787	K05595	multiple antibiotic resistance protein | (GenBank) MarC family integral membrane protein
+man:A11S_398	K05685	macrolide transport system ATP-binding/permease protein [EC:7.6.2.-] | (GenBank) Macrolide ex
+man:A11S_97	K05770	translocator protein | (GenBank) Tryptophan-rich sensory protein
+man:A11S_968	K05785	transcriptional antiterminator RfaH | (GenBank) hypothetical protein
+man:A11S_140	K05788	integration host factor subunit beta | (GenBank) Integration host factor beta subunit
+man:A11S_197	K05792	tellurite resistance protein TerA | (GenBank) Tellurium resistance protein TerA
+man:A11S_49	K05794	tellurite resistance protein TerC | (GenBank) Integral membrane protein TerC
+man:A11S_198	K05795	tellurium resistance protein TerD | (GenBank) stress protein
+man:A11S_1800	K05807	outer membrane protein assembly factor BamD | (GenBank) competence lipoprotein ComL, putative
+man:A11S_898	K05810	purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase / adenosine deaminase [EC:2.4.2.1 2
+man:A11S_1776	K05837	rod shape determining protein RodA | (GenBank) Rod shape-determining protein RodA
+man:A11S_2273	K05838	putative thioredoxin | (GenBank) Thioredoxin domain-containing protein EC-YbbN
+man:A11S_553	K05896	segregation and condensation protein A | (GenBank) Segregation and condensation protein A
+man:A11S_1563	K05916	nitric oxide dioxygenase [EC:1.14.12.17] | (GenBank) Flavohemoprotein (Hemoglobin-like protei
+man:A11S_1022	K05973	poly(3-hydroxybutyrate) depolymerase [EC:3.1.1.75] | (GenBank) Intracellular PHB depolymerase
+man:A11S_554	K06024	segregation and condensation protein B | (GenBank) Segregation and condensation protein B
+man:A11S_162	K06041	arabinose-5-phosphate isomerase [EC:5.3.1.13] | (GenBank) Arabinose 5-phosphate isomerase
+man:A11S_2314	K06076	long-chain fatty acid transport protein | (GenBank) Long-chain fatty acid transport protein
+man:A11S_1262	K06142	outer membrane protein | (GenBank) Outer membrane protein H precursor
+man:A11S_1516	K06147	ATP-binding cassette, subfamily B, bacterial | (GenBank) ABC multidrug efflux pump, fused ATP
+man:A11S_116	K06147	ATP-binding cassette, subfamily B, bacterial | (GenBank) putative ABC transporter ATP-binding
+man:A11S_212	K06153	undecaprenyl-diphosphatase [EC:3.6.1.27] | (GenBank) Undecaprenyl-diphosphatase
+man:A11S_1945	K06158	ATP-binding cassette, subfamily F, member 3 | (GenBank) Glutathione-regulated potassium-efflu
+man:A11S_1205	K06167	phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55] | (GenBank) Metal-depende
+man:A11S_1090	K06168	tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3] | (GenBank) tRNA-i(6)A37 me
+man:A11S_2341	K06173	tRNA pseudouridine38-40 synthase [EC:5.4.99.12] | (GenBank) tRNA pseudouridine synthase A
+man:A11S_1288	K06177	tRNA pseudouridine32 synthase / 23S rRNA pseudouridine746 synthase [EC:5.4.99.28 5.4.99.29] |
+man:A11S_209	K06178	23S rRNA pseudouridine2605 synthase [EC:5.4.99.22] | (GenBank) tRNA pseudouridine synthase A
+man:A11S_2025	K06179	23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24] | (GenBank) Ribosomal large subun
+man:A11S_529	K06180	23S rRNA pseudouridine1911/1915/1917 synthase [EC:5.4.99.23] | (GenBank) Ribosomal large subu
+man:A11S_173	K06187	recombination protein RecR | (GenBank) Recombination protein RecR
+man:A11S_1086	K06189	hemolysin (HlyC) family protein | (GenBank) Magnesium and cobalt efflux protein CorC
+man:A11S_2115	K06193	protein PhnA | (GenBank) Alkylphosphonate utilization operon protein PhnA
+man:A11S_2026	K06199	fluoride exporter | (GenBank) Protein crcB-like protein
+man:A11S_1645	K06204	DnaK suppressor protein | (GenBank) C4-type zinc finger protein, DksA/TraR family
+man:A11S_315	K06207	GTP-binding protein | (GenBank) GTP-binding protein TypA/BipA
+man:A11S_734	K06213	magnesium transporter | (GenBank) Magnesium transporter
+man:A11S_1088	K06217	phosphate starvation-inducible protein PhoH and related proteins | (GenBank) Phosphate starva
+man:A11S_1089	K06217	phosphate starvation-inducible protein PhoH and related proteins | (GenBank) Phosphate starva
+man:A11S_2311	K06217	phosphate starvation-inducible protein PhoH and related proteins | (GenBank) Phosphate starva
+man:A11S_537	K06287	nucleoside triphosphate pyrophosphatase [EC:3.6.1.-] | (GenBank) Septum formation protein Maf
+man:A11S_2174	K06400	site-specific DNA recombinase | (GenBank) resolvase
+man:A11S_869	K06400	site-specific DNA recombinase | (GenBank) resolvase
+man:A11S_797	K06445	acyl-CoA dehydrogenase [EC:1.3.99.-] | (GenBank) Butyryl-CoA dehydrogenase
+man:A11S_683	K06601	flagellar biosynthesis repressor protein FlbT | (GenBank) hypothetical protein
+man:A11S_682	K06602	flagellar biosynthesis activator protein FlaF | (GenBank) flagellar FlaF
+man:A11S_154	K06861	lipopolysaccharide export system ATP-binding protein [EC:7.5.2.5] | (GenBank) Lipopolysacchar
+man:A11S_1901	K06876	(6-4)DNA photolyase [EC:4.1.99.13] | (GenBank) Protein related to deoxyribodipyrimidine photo
+man:A11S_907	K06878	tRNA-binding protein | (GenBank) Protein secretion chaperonin CsaA
+man:A11S_1100	K06889	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_2187	K06889	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_2383	K06890	uncharacterized protein | (GenBank) membrane protein
+man:A11S_2286	K06891	ATP-dependent Clp protease adaptor protein ClpS | (GenBank) ATP-dependent Clp protease adapto
+man:A11S_1825	K06902	MFS transporter, UMF1 family | (GenBank) transporter, putative
+man:A11S_281	K06911	quercetin 2,3-dioxygenase [EC:1.13.11.24] | (GenBank) Pirin
+man:A11S_375	K06915	DNA double-strand break repair helicase HerA and related ATPase | (GenBank) ATPase
+man:A11S_558	K06916	cell division protein ZapE | (GenBank) ATPase, AFG1 family
+man:A11S_121	K06925	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE | (GenBank) ATPase YjeE, predicted
+man:A11S_2235	K06941	23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192] | (GenBank) Ribosomal RNA large su
+man:A11S_902	K06942	ribosome-binding ATPase | (GenBank) GTP-binding and nucleic acid-binding protein YchF
+man:A11S_1910	K06954	uncharacterized protein | (GenBank) Amine oxidase, flavin-containing
+man:A11S_130	K06958	RNase adapter protein RapZ | (GenBank) Hypothetical ATP-binding protein UPF0042, contains P-l
+man:A11S_123	K06975	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_692	K06980	tRNA-modifying protein YgfZ | (GenBank) Folate-dependent protein for Fe/S cluster synthesis/r
+man:A11S_39	K06997	PLP dependent protein | (GenBank) Hypothetical protein YggS, proline synthase co-transcribed
+man:A11S_1898	K06999	phospholipase/carboxylesterase | (GenBank) Carboxylesterase
+man:A11S_1573	K06999	phospholipase/carboxylesterase | (GenBank) hypothetical protein
+man:A11S_2008	K06999	phospholipase/carboxylesterase | (GenBank) hypothetical protein
+man:A11S_1097	K07001	NTE family protein | (GenBank) UPF0028 protein YchK
+man:A11S_1992	K07018	uncharacterized protein | (GenBank) Alpha/beta hydrolase
+man:A11S_89	K07025	putative hydrolase of the HAD superfamily | (GenBank) pyrimidine 5'-nucleotidase
+man:A11S_1087	K07042	probable rRNA maturation factor | (GenBank) protein of unknown function UPF0054
+man:A11S_792	K07052	CAAX protease family protein | (GenBank) hypothetical protein
+man:A11S_496	K07056	16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198] | (GenBank) rRNA small subunit
+man:A11S_2264	K07082	UPF0755 protein | (GenBank) protein YceG like protein
+man:A11S_1669	K07089	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_884	K07090	uncharacterized protein | (GenBank) membrane protein, putative
+man:A11S_426	K07090	uncharacterized protein | (GenBank) Protein of unknown function DUF81
+man:A11S_74	K07090	uncharacterized protein | (GenBank) Protein of unknown function DUF81
+man:A11S_1503	K07090	uncharacterized protein | (GenBank) putative membrane protein of unknown function
+man:A11S_843	K07090	uncharacterized protein | (GenBank) putative sulfoacetate exporter
+man:A11S_188	K07091	lipopolysaccharide export system permease protein | (GenBank) putative membrane spanning prot
+man:A11S_1530	K07102	N-acetylmuramate 1-kinase [EC:2.7.1.221] | (GenBank) putative phosphotransferase related to S
+man:A11S_1630	K07104	catechol 2,3-dioxygenase [EC:1.13.11.2] | (GenBank) Biphenyl-2,3-diol 1,2-dioxygenase
+man:A11S_615	K07106	N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126] | (GenBank) N-acetylmuramic acid 6-p
+man:A11S_1136	K07107	acyl-CoA thioester hydrolase [EC:3.1.2.-] | (GenBank) 4-hydroxybenzoyl-CoA thioesterase famil
+man:A11S_2400	K07113	UPF0716 protein FxsA | (GenBank) FxsA protein
+man:A11S_771	K07115	23S rRNA (adenine2030-N6)-methyltransferase [EC:2.1.1.266] | (GenBank) Protein involved in ca
+man:A11S_285	K07118	uncharacterized protein | (GenBank) Rrf2-linked NADH-flavin reductase
+man:A11S_78	K07127	5-hydroxyisourate hydrolase [EC:3.5.2.17] | (GenBank) hypothetical protein
+man:A11S_487	K07146	UPF0176 protein | (GenBank) Rhodanese domain protein UPF0176, cyanobacterial/alphaproteobacte
+man:A11S_2312	K07152	protein SCO1 | (GenBank) Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, putative coppe
+man:A11S_2124	K07154	serine/threonine-protein kinase HipA [EC:2.7.11.1] | (GenBank) HipA-like protein
+man:A11S_2272	K07157	uncharacterized protein | (GenBank) Uncharacterized protein, similar to the N-terminal domain
+man:A11S_2080	K07180	serine protein kinase | (GenBank) Serine protein kinase (prkA protein), P-loop containing
+man:A11S_835	K07234	uncharacterized protein involved in response to NO | (GenBank) NnrS protein involved in respo
+man:A11S_1109	K07240	chromate transporter | (GenBank) Chromate transport protein ChrA
+man:A11S_1200	K07258	serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4] | (Ge
+man:A11S_2017	K07263	zinc protease [EC:3.4.24.-] | (GenBank) putative Zn-dependent peptidase
+man:A11S_2016	K07263	zinc protease [EC:3.4.24.-] | (GenBank) zinc peptidase
+man:A11S_1931	K07275	outer membrane protein | (GenBank) Outer membrane protein W precursor
+man:A11S_1523	K07276	uncharacterized protein | (GenBank) DUF1022 domain-containing protein
+man:A11S_1263	K07277	outer membrane protein insertion porin family | (GenBank) Outer membrane protein assembly fac
+man:A11S_1960	K07278	translocation and assembly module TamA | (GenBank) Outer membrane protein
+man:A11S_1914	K07301	cation:H+ antiporter | (GenBank) Inner membrane protein YrbG, predicted calcium/sodium:proton
+man:A11S_1837	K07305	peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12] | (GenBank) Peptide methionine sulfoxi
+man:A11S_1973	K07320	ribosomal protein L3 glutamine methyltransferase [EC:2.1.1.298] | (GenBank) Protein-N(5)-glut
+man:A11S_1185	K07321	CO dehydrogenase maturation factor | (GenBank) hypothetical protein
+man:A11S_191	K07323	phospholipid transport system substrate-binding protein | (GenBank) hypothetical protein
+man:A11S_179	K07340	inner membrane protein | (GenBank) Putative activity regulator of membrane protease YbbK
+man:A11S_1775	K07390	monothiol glutaredoxin | (GenBank) Glutaredoxin-related protein
+man:A11S_56	K07391	magnesium chelatase family protein | (GenBank) MG(2+) chelatase family protein / ComM-related
+man:A11S_2317	K07394	SM-20-related protein | (GenBank) SM-20-related protein
+man:A11S_382	K07397	putative redox protein | (GenBank) Osmotically inducible protein C (OsmC)-like protein
+man:A11S_1018	K07447	putative pre-16S rRNA nuclease [EC:3.1.-.-] | (GenBank) Putative Holliday junction resolvase
+man:A11S_497	K07460	putative endonuclease | (GenBank) hypothetical protein
+man:A11S_717	K07461	putative endonuclease | (GenBank) Excinuclease ABC, C subunit domain protein
+man:A11S_1407	K07461	putative endonuclease | (GenBank) Excinuclease ABC, C subunit-like protein
+man:A11S_1515	K07461	putative endonuclease | (GenBank) Excinuclease ABC, C subunit-like protein
+man:A11S_786	K07461	putative endonuclease | (GenBank) hypothetical protein
+man:A11S_994	K07462	single-stranded-DNA-specific exonuclease [EC:3.1.-.-] | (GenBank) Single-stranded-DNA-specifi
+man:A11S_2027	K07478	putative ATPase | (GenBank) Holliday junction DNA helicase
+man:A11S_2322	K07516	3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35] | (GenBank) Enoyl-CoA hydratase [isoleucine deg
+man:A11S_1986	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87] | (GenBank) YrdC/Sua5 family protein, req
+man:A11S_1928	K07576	metallo-beta-lactamase family protein | (GenBank) Metallo-beta-lactamase family protein, RNA-
+man:A11S_906	K07638	two-component system, OmpR family, osmolarity sensor histidine kinase EnvZ [EC:2.7.13.3] | (G
+man:A11S_1999	K07645	two-component system, OmpR family, sensor histidine kinase QseC [EC:2.7.13.3] | (GenBank) sen
+man:A11S_905	K07659	two-component system, OmpR family, phosphate regulon response regulator OmpR | (GenBank) DNA-
+man:A11S_2000	K07666	two-component system, OmpR family, response regulator QseB | (GenBank) Two-component system r
+man:A11S_1034	K07716	two-component system, cell cycle sensor histidine kinase PleC [EC:2.7.13.3] | (GenBank) putat
+man:A11S_224	K07716	two-component system, cell cycle sensor histidine kinase PleC [EC:2.7.13.3] | (GenBank) putat
+man:A11S_2172	K07727	putative transcriptional regulator | (GenBank) transcriptional regulator, XRE family
+man:A11S_1003	K07733	prophage regulatory protein | (GenBank) hypothetical protein
+man:A11S_2242	K07735	putative transcriptional regulator | (GenBank) UPF0301 protein YqgE
+man:A11S_1424	K07736	CarD family transcriptional regulator, regulator of rRNA transcription | (GenBank) CarD-like
+man:A11S_951	K07738	transcriptional repressor NrdR | (GenBank) Ribonucleotide reductase transcriptional regulator
+man:A11S_1078	K07742	uncharacterized protein | (GenBank) putative nucleic-acid-binding protein implicated in trans
+man:A11S_1227	K08281	nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-] | (GenBank) hypothetical protein
+man:A11S_1877	K08296	phosphohistidine phosphatase [EC:3.1.3.-] | (GenBank) hypothetical protein
+man:A11S_340	K08300	ribonuclease E [EC:3.1.26.12] | (GenBank) Cytoplasmic axial filament protein CafA and Ribonuc
+man:A11S_536	K08301	ribonuclease G [EC:3.1.26.-] | (GenBank) ribonuclease E
+man:A11S_2398	K08304	membrane-bound lytic murein transglycosylase A [EC:4.2.2.-] | (GenBank) Membrane-bound lytic
+man:A11S_1198	K08305	membrane-bound lytic murein transglycosylase B [EC:4.2.2.-] | (GenBank) Membrane-bound lytic
+man:A11S_1887	K08309	soluble lytic murein transglycosylase [EC:4.2.2.-] | (GenBank) Lytic transglycosylase, cataly
+man:A11S_1608	K08309	soluble lytic murein transglycosylase [EC:4.2.2.-] | (GenBank) Soluble lytic murein transglyc
+man:A11S_1141	K08311	putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-] | (GenBank) Adenosine (5')-penta
+man:A11S_1853	K08591	acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275] | (GenBank) Acyl-phosphate
+man:A11S_2245	K08641	zinc D-Ala-D-Ala dipeptidase [EC:3.4.13.22] | (GenBank) D-alanyl-D-alanine dipeptidase
+man:A11S_2183	K08714	voltage-gated sodium channel | (GenBank) Voltage-gated sodium channel subunit
+man:A11S_37	K08720	outer membrane protein OmpU | (GenBank) Porin 41 (Por41) precursor
+man:A11S_38	K08720	outer membrane protein OmpU | (GenBank) Porin 41 (Por41) precursor
+man:A11S_182	K08738	cytochrome c | (GenBank) cytochrome c
+man:A11S_657	K08744	cardiolipin synthase (CMP-forming) [EC:2.7.8.41] | (GenBank) CDP-diacylglycerol--glycerol-3-p
+man:A11S_3	K08973	protoporphyrinogen IX oxidase [EC:1.3.99.-] | (GenBank) putative membrane protein
+man:A11S_1038	K08987	putative membrane protein | (GenBank) hypothetical protein
+man:A11S_2350	K08998	uncharacterized protein | (GenBank) Protein YidD
+man:A11S_1987	K09001	anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170] | (GenBank) Anhydro-N-acetylmuramic acid k
+man:A11S_1103	K09005	uncharacterized protein | (GenBank) protein of unknown function DUF192
+man:A11S_1047	K09013	Fe-S cluster assembly ATP-binding protein | (GenBank) Iron-sulfur cluster assembly ATPase pro
+man:A11S_1045	K09014	Fe-S cluster assembly protein SufB | (GenBank) Iron-sulfur cluster assembly protein SufB
+man:A11S_1048	K09015	Fe-S cluster assembly protein SufD | (GenBank) Iron-sulfur cluster assembly protein SufD
+man:A11S_889	K09019	3-hydroxypropanoate dehydrogenase [EC:1.1.1.-] | (GenBank) putative reductase RutE
+man:A11S_1511	K09117	uncharacterized protein | (GenBank) Transamidase GatB domain protein
+man:A11S_1827	K09131	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_1538	K09159	antitoxin CptB | (GenBank) hypothetical protein
+man:A11S_2263	K09458	3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179] | (GenBank) 3-oxoacyl-[acyl-carri
+man:A11S_1024	K09471	gamma-glutamylputrescine oxidase [EC:1.4.3.-] | (GenBank) FAD dependent oxidoreductase
+man:A11S_1909	K09701	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_1146	K09710	ribosome-associated protein | (GenBank) Iojap protein
+man:A11S_304	K09747	nucleoid-associated protein EbfC | (GenBank) hypothetical protein co-occurring with RecR
+man:A11S_1080	K09748	ribosome maturation factor RimP | (GenBank) transcription termination protein NusA-like prote
+man:A11S_2346	K09760	DNA recombination protein RmuC | (GenBank) DNA recombination protein RmuC
+man:A11S_255	K09761	16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193] | (GenBank) Ribosomal RNA small sub
+man:A11S_1129	K09769	2',3'-cyclic-nucleotide 2'-phosphodiesterase [EC:3.1.4.16] | (GenBank) hypothetical protein
+man:A11S_2409	K09773	[pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [
+man:A11S_165	K09774	lipopolysaccharide export system protein LptA | (GenBank) hypothetical protein
+man:A11S_2079	K09786	uncharacterized protein | (GenBank) UPF0229 protein YeaH
+man:A11S_2271	K09791	uncharacterized protein | (GenBank) UPF0434 protein YcaR
+man:A11S_2216	K09796	periplasmic copper chaperone A | (GenBank) Copper metallochaperone, Cox17-like protein
+man:A11S_1599	K09797	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_1250	K09798	uncharacterized protein | (GenBank) Putative periplasmic protein
+man:A11S_1142	K09798	uncharacterized protein | (GenBank) Putative periplasmic protein YibQ
+man:A11S_1959	K09800	translocation and assembly module TamB | (GenBank) hypothetical protein
+man:A11S_1275	K09808	lipoprotein-releasing system permease protein | (GenBank) Lipoprotein releasing system transm
+man:A11S_1274	K09810	lipoprotein-releasing system ATP-binding protein [EC:7.6.2.-] | (GenBank) Lipoprotein releasi
+man:A11S_1382	K09811	cell division transport system permease protein | (GenBank) Cell division protein FtsX
+man:A11S_1381	K09812	cell division transport system ATP-binding protein | (GenBank) Cell division transporter, ATP
+man:A11S_1182	K09823	Fur family transcriptional regulator, zinc uptake regulator | (GenBank) Zinc uptake regulatio
+man:A11S_1406	K09882	cobaltochelatase CobS [EC:6.6.1.2] | (GenBank) Aerobic cobaltochelatase CobS subunit
+man:A11S_1408	K09883	cobaltochelatase CobT [EC:6.6.1.2] | (GenBank) Aerobic cobaltochelatase CobT subunit
+man:A11S_1127	K09888	cell division protein ZapA | (GenBank) hypothetical protein
+man:A11S_1269	K09903	uridylate kinase [EC:2.7.4.22] | (GenBank) Uridylate kinase
+man:A11S_580	K09921	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_442	K09922	uncharacterized protein | (GenBank) membrane protein, putative
+man:A11S_566	K09924	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_2209	K09928	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_1900	K09932	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_1241	K09936	bacterial/archaeal transporter family-2 protein | (GenBank) Integral membrane protein
+man:A11S_386	K09937	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_1258	K09949	UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54] | (GenBank) Protein of unknown function DUF
+man:A11S_2181	K09973	uncharacterized protein | (GenBank) GumN family protein
+man:A11S_395	K09985	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_1601	K09986	uncharacterized protein | (GenBank) Proteophosphoglycan precursor
+man:A11S_1588	K09987	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_1114	K09991	uncharacterized protein | (GenBank) hypothetical protein
+man:A11S_357	K10563	formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18] | (GenBank) Formamidopyrimidine-D
+man:A11S_1688	K10773	endonuclease III [EC:3.2.2.- 4.2.99.18] | (GenBank) Endonuclease III
+man:A11S_1687	K10778	AraC family transcriptional regulator, regulatory protein of adaptative response / methylated
+man:A11S_444	K10778	AraC family transcriptional regulator, regulatory protein of adaptative response / methylated
+man:A11S_1320	K10806	acyl-CoA thioesterase YciA [EC:3.1.2.-] | (GenBank) Acyl-CoA thioester hydrolase yciA
+man:A11S_2384	K10912	two-component system, repressor protein LuxO | (GenBank) Regulatory protein LuxO
+man:A11S_927	K10914	CRP/FNR family transcriptional regulator, cyclic AMP receptor protein | (GenBank) cAMP-bindin
+man:A11S_674	K10943	two-component system, response regulator FlrC | (GenBank) two component, sigma54 specific, tr
+man:A11S_1099	K11085	ATP-binding cassette, subfamily B, bacterial MsbA [EC:7.5.2.6] | (GenBank) Lipid A export ATP
+man:A11S_546	K11105	potassium/hydrogen antiporter | (GenBank) Na+/H+ antiporter
+man:A11S_1578	K11206	deaminated glutathione amidase [EC:3.5.1.128] | (GenBank) Carbon-nitrogen hydrolase / Omega a
+man:A11S_1918	K11381	2-oxoisovalerate dehydrogenase E1 component [EC:1.2.4.4] | (GenBank) putative 2-oxoisovalerat
+man:A11S_1866	K11443	two-component system, cell cycle response regulator DivK | (GenBank) Chemotaxis protein CheV
+man:A11S_993	K11532	fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37] | (G
+man:A11S_1966	K11604	manganese/iron transport system substrate-binding protein | (GenBank) Manganese ABC transport
+man:A11S_1968	K11605	manganese/iron transport system permease protein | (GenBank) Manganese ABC transporter, inner
+man:A11S_1969	K11606	manganese/iron transport system permease protein | (GenBank) Manganese ABC transporter, inner
+man:A11S_1967	K11607	manganese/iron transport system ATP-binding protein | (GenBank) Manganese ABC transporter, AT
+man:A11S_1049	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16] | (GenBank) Cysteine desulf
+man:A11S_164	K11719	lipopolysaccharide export system protein LptC | (GenBank) hypothetical protein
+man:A11S_189	K11720	lipopolysaccharide export system permease protein | (GenBank) permease YjgP/YjgQ family prote
+man:A11S_572	K11741	quaternary ammonium compound-resistance protein SugE | (GenBank) hypothetical protein
+man:A11S_1264	K11749	regulator of sigma E protease [EC:3.4.24.-] | (GenBank) Intramembrane protease RasP/YluC, imp
+man:A11S_195	K11749	regulator of sigma E protease [EC:3.4.24.-] | (GenBank) Intramembrane protease RasP/YluC, imp
+man:A11S_2009	K11753	riboflavin kinase / FMN adenylyltransferase [EC:2.7.1.26 2.7.7.2] | (GenBank) Riboflavin kina
+man:A11S_135	K11754	dihydrofolate synthase / folylpolyglutamate synthase [EC:6.3.2.12 6.3.2.17] | (GenBank) Dihyd
+man:A11S_1970	K11924	DtxR family transcriptional regulator, manganese transport regulator | (GenBank) Mn-dependent
+man:A11S_208	K11991	tRNA(adenine34) deaminase [EC:3.5.4.33] | (GenBank) tRNA-specific adenosine-34 deaminase
+man:A11S_2375	K12203	defect in organelle trafficking protein DotB [EC:7.2.4.8] | (GenBank) Twitching motility prot
+man:A11S_2376	K12204	defect in organelle trafficking protein DotC | (GenBank) defect in organelle trafficking lipo
+man:A11S_2377	K12205	defect in organelle trafficking protein DotD | (GenBank) putative DotD-like type IV secretion
+man:A11S_2360	K12206	intracellular multiplication protein IcmB [EC:7.2.4.8] | (GenBank) IcmB (DotO) protein
+man:A11S_2365	K12209	intracellular multiplication protein IcmE | (GenBank) DotG
+man:A11S_2361	K12212	intracellular multiplication protein IcmJ | (GenBank) IcmJ (DotN) protein
+man:A11S_2366	K12213	intracellular multiplication protein IcmK | (GenBank) IcmK (DotH) protein
+man:A11S_2367	K12214	intracellular multiplication protein IcmL | (GenBank) IcmL (DotI) protein
+man:A11S_367	K12217	intracellular multiplication protein IcmO [EC:7.2.4.8] | (GenBank) IcmO
+man:A11S_369	K12218	intracellular multiplication protein IcmP | (GenBank) putative IcmP-like type IV secretion sy
+man:A11S_2374	K12222	intracellular multiplication protein IcmT | (GenBank) hypothetical protein
+man:A11S_1467	K12282	MSHA biogenesis protein MshL | (GenBank) putative MSHA biogenesis protein MshL
+man:A11S_1183	K12339	S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent) [EC:2.5.1.144] | (GenBank) Cysteine
+man:A11S_1113	K12340	outer membrane protein | (GenBank) Type I secretion outer membrane protein, TolC precursor
+man:A11S_1235	K12500	thioesterase III [EC:3.1.2.-] | (GenBank) hypothetical protein
+man:A11S_1219	K12506	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclod
+man:A11S_520	K12510	tight adherence protein B | (GenBank) Flp pilus assembly protein TadB
+man:A11S_521	K12511	tight adherence protein C | (GenBank) Type II/IV secretion system protein TadC, associated wi
+man:A11S_104	K12541	ATP-binding cassette, subfamily C, bacterial LapB | (GenBank) ABC transporter, transmembrane
+man:A11S_1788	K12541	ATP-binding cassette, subfamily C, bacterial LapB | (GenBank) ABC transporter, transmembrane
+man:A11S_1173	K12541	ATP-binding cassette, subfamily C, bacterial LapB | (GenBank) ABC-type bacteriocin/lantibioti
+man:A11S_1174	K12541	ATP-binding cassette, subfamily C, bacterial LapB | (GenBank) ABC-type bacteriocin/lantibioti
+man:A11S_105	K12542	membrane fusion protein, adhesin transport system | (GenBank) HlyD family secretion protein
+man:A11S_1175	K12542	membrane fusion protein, adhesin transport system | (GenBank) Membrane-fusion protein
+man:A11S_1787	K12542	membrane fusion protein, adhesin transport system | (GenBank) secretion protein, HlyD family
+man:A11S_102	K12543	outer membrane protein, adhesin transport system | (GenBank) type I secretion outer membrane
+man:A11S_1789	K12543	outer membrane protein, adhesin transport system | (GenBank) type I secretion outer membrane
+man:A11S_1862	K12573	ribonuclease R [EC:3.1.13.1] | (GenBank) 3'-to-5' exoribonuclease RNase R
+man:A11S_1863	K12573	ribonuclease R [EC:3.1.13.1] | (GenBank) 3'-to-5' exoribonuclease RNase R
+man:A11S_1280	K12574	ribonuclease J [EC:3.1.-.-] | (GenBank) Metallo-beta-lactamase family protein, RNA-specific
+man:A11S_235	K12972	glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81] | (GenBank) D-3-phosphoglycerate
+man:A11S_1287	K12976	lipid A 3-O-deacylase [EC:3.1.1.-] | (GenBank) hypothetical protein
+man:A11S_970	K13010	perosamine synthetase [EC:2.6.1.102] | (GenBank) UDP-4-amino-4-deoxy-L-arabinose--oxoglutarat
+man:A11S_299	K13015	UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136] | (GenBank) UDP-glucose dehydrogenase
+man:A11S_300	K13018	UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase [EC:2.3.1.201] | (GenBank
+man:A11S_979	K13019	UDP-GlcNAc3NAcA epimerase [EC:5.1.3.23] | (GenBank) UDP-N-acetylglucosamine 2-epimerase
+man:A11S_1033	K13069	diguanylate cyclase [EC:2.7.7.65] | (GenBank) GGDEF domain protein
+man:A11S_2102	K13283	ferrous-iron efflux pump FieF | (GenBank) Cobalt-zinc-cadmium resistance protein
+man:A11S_896	K13292	phosphatidylglycerol---prolipoprotein diacylglyceryl transferase [EC:2.5.1.145] | (GenBank) P
+man:A11S_1161	K13581	modification methylase [EC:2.1.1.72] | (GenBank) Modification methylase
+man:A11S_2201	K13583	GcrA cell cycle regulator | (GenBank) hypothetical protein
+man:A11S_658	K13584	two-component system, cell cycle response regulator CtrA | (GenBank) cell cycle transcription
+man:A11S_1617	K13587	two-component system, cell cycle sensor histidine kinase and response regulator CckA [EC:2.7.
+man:A11S_629	K13588	histidine phosphotransferase ChpT | (GenBank) hypothetical protein
+man:A11S_525	K13589	two-component system, cell cycle response regulator CpdR | (GenBank) Response regulator
+man:A11S_60	K13590	diguanylate cyclase [EC:2.7.7.65] | (GenBank) diguanylate cyclase (GGDEF domain)
+man:A11S_655	K13593	cyclic-di-GMP phosphodiesterase, flagellum assembly factor TipF | (GenBank) hypothetical prot
+man:A11S_1218	K13598	two-component system, NtrC family, nitrogen regulation sensor histidine kinase NtrY [EC:2.7.1
+man:A11S_1217	K13599	two-component system, NtrC family, nitrogen regulation response regulator NtrX | (GenBank) Ni
+man:A11S_1052	K13628	iron-sulfur cluster assembly protein | (GenBank) iron-sulfur cluster assembly accessory prote
+man:A11S_431	K13683	putative colanic acid biosynthesis glycosyltransferase WcaE [EC:2.4.-.-] | (GenBank) Putative
+man:A11S_802	K13766	methylglutaconyl-CoA hydratase [EC:4.2.1.18] | (GenBank) Methylglutaconyl-CoA hydratase
+man:A11S_1562	K13771	Rrf2 family transcriptional regulator, nitric oxide-sensitive transcriptional repressor | (Ge
+man:A11S_846	K13771	Rrf2 family transcriptional regulator, nitric oxide-sensitive transcriptional repressor | (Ge
+man:A11S_2289	K13775	citronellol/citronellal dehydrogenase | (GenBank) short chain dehydrogenase
+man:A11S_203	K13821	RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydroge
+man:A11S_397	K13888	membrane fusion protein, macrolide-specific efflux system | (GenBank) Macrolide-specific effl
+man:A11S_654	K13893	microcin C transport system substrate-binding protein | (GenBank) ABC transporter, periplasmi
+man:A11S_647	K13894	microcin C transport system permease protein | (GenBank) Oligopeptide transport system permea
+man:A11S_646	K13895	microcin C transport system permease protein | (GenBank) Oligopeptide transport system permea
+man:A11S_640	K13896	microcin C transport system ATP-binding protein | (GenBank) Oligopeptide transport system per
+man:A11S_2113	K13979	alcohol dehydrogenase (NADP+) [EC:1.1.1.2] | (GenBank) Alcohol dehydrogenase
+man:A11S_1871	K13993	HSP20 family protein | (GenBank) heat shock protein Hsp20
+man:A11S_1963	K14055	universal stress protein E | (GenBank) Universal stress protein family 1
+man:A11S_1386	K14170	chorismate mutase / prephenate dehydratase [EC:5.4.99.5 4.2.1.51] | (GenBank) chorismate muta
+man:A11S_1334	K14205	phosphatidylglycerol lysyltransferase [EC:2.3.2.3] | (GenBank) hypothetical protein
+man:A11S_2385	K14218	tRNA Ala | (GenBank) tRNA-Ala
+man:A11S_439	K14218	tRNA Ala | (GenBank) tRNA-Ala
+man:A11S_1106	K14219	tRNA Arg | (GenBank) tRNA-Arg
+man:A11S_1478	K14219	tRNA Arg | (GenBank) tRNA-Arg
+man:A11S_1480	K14219	tRNA Arg | (GenBank) tRNA-Arg
+man:A11S_400	K14219	tRNA Arg | (GenBank) tRNA-Arg
+man:A11S_1110	K14220	tRNA Asn | (GenBank) tRNA-Asn
+man:A11S_1303	K14221	tRNA Asp | (GenBank) tRNA-Asp
+man:A11S_1111	K14222	tRNA Cys | (GenBank) tRNA-Cys
+man:A11S_1894	K14223	tRNA Gln | (GenBank) tRNA-Gln
+man:A11S_1006	K14224	tRNA Glu | (GenBank) tRNA-Glu
+man:A11S_2096	K14225	tRNA Gly | (GenBank) tRNA-Gly
+man:A11S_2277	K14225	tRNA Gly | (GenBank) tRNA-Gly
+man:A11S_915	K14225	tRNA Gly | (GenBank) tRNA-Gly
+man:A11S_1317	K14226	tRNA His | (GenBank) tRNA-His
+man:A11S_438	K14227	tRNA Ile | (GenBank) tRNA-Ile
+man:A11S_1315	K14228	tRNA Leu | (GenBank) tRNA-Leu
+man:A11S_1564	K14228	tRNA Leu | (GenBank) tRNA-Leu
+man:A11S_160	K14228	tRNA Leu | (GenBank) tRNA-Leu
+man:A11S_1695	K14228	tRNA Leu | (GenBank) tRNA-Leu
+man:A11S_738	K14228	tRNA Leu | (GenBank) tRNA-Leu
+man:A11S_1548	K14229	tRNA Lys | (GenBank) tRNA-Lys
+man:A11S_1506	K14230	tRNA Met | (GenBank) tRNA-Met
+man:A11S_1998	K14230	tRNA Met | (GenBank) tRNA-Met
+man:A11S_443	K14230	tRNA Met | (GenBank) tRNA-Met
+man:A11S_535	K14231	tRNA Phe | (GenBank) tRNA-Phe
+man:A11S_1104	K14232	tRNA Pro | (GenBank) tRNA-Pro
+man:A11S_1664	K14232	tRNA Pro | (GenBank) tRNA-Pro
+man:A11S_965	K14232	tRNA Pro | (GenBank) tRNA-Pro
+man:A11S_1010	K14233	tRNA Ser | (GenBank) tRNA-Ser
+man:A11S_1196	K14233	tRNA Ser | (GenBank) tRNA-Ser
+man:A11S_73	K14233	tRNA Ser | (GenBank) tRNA-Ser
+man:A11S_871	K14233	tRNA Ser | (GenBank) tRNA-Ser
+man:A11S_273	K14234	tRNA Thr | (GenBank) tRNA-Thr
+man:A11S_372	K14234	tRNA Thr | (GenBank) tRNA-Thr
+man:A11S_543	K14234	tRNA Thr | (GenBank) tRNA-Thr
+man:A11S_2077	K14235	tRNA Trp | (GenBank) tRNA-Trp
+man:A11S_2176	K14236	tRNA Tyr | (GenBank) tRNA-Tyr
+man:A11S_1310	K14237	tRNA Val | (GenBank) tRNA-Val
+man:A11S_524	K14237	tRNA Val | (GenBank) tRNA-Val
+man:A11S_1940	K14393	cation/acetate symporter | (GenBank) Acetate permease ActP (cation/acetate symporter)
+man:A11S_311	K14441	ribosomal protein S12 methylthiotransferase [EC:2.8.4.4] | (GenBank) SAM-dependent methylase
+man:A11S_890	K14742	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB | (GenBank) putative molecular chap
+man:A11S_494	K14940	gamma-F420-2:alpha-L-glutamate ligase [EC:6.3.2.32] | (GenBank) Ribosomal protein S6 glutamin
+man:A11S_133	K14980	two-component system, OmpR family, sensor histidine kinase ChvG [EC:2.7.13.3] | (GenBank) Sen
+man:A11S_134	K14981	two-component system, OmpR family, response regulator ChvI | (GenBank) DNA-binding response r
+man:A11S_237	K14998	surfeit locus 1 family protein | (GenBank) Cytochrome oxidase biogenesis protein Surf1, facil
+man:A11S_825	K15256	tRNA (cmo5U34)-methyltransferase [EC:2.1.1.-] | (GenBank) hypothetical protein
+man:A11S_411	K15268	O-acetylserine/cysteine efflux transporter | (GenBank) protein of unknown function DUF6, tran
+man:A11S_260	K15371	glutamate dehydrogenase [EC:1.4.1.2] | (GenBank) NAD-specific glutamate dehydrogenase, large
+man:A11S_483	K15461	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-
+man:A11S_1367	K15539	cytoskeleton protein RodZ | (GenBank) Transcriptional Regulator, XRE family
+man:A11S_1224	K15634	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11] | (GenBank) phosphogl
+man:A11S_549	K15724	iron-sulfur cluster insertion protein | (GenBank) putative iron binding protein from the HesB
+man:A11S_813	K15738	ABC transport system ATP-binding/permease protein | (GenBank) ATPase components of ABC transp
+man:A11S_1897	K15975	glyoxalase family protein | (GenBank) Glyoxalase family protein
+man:A11S_955	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:7.2.3.1] | (GenBank) Pyrophosphate-en
+man:A11S_475	K16011	mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]
+man:A11S_1946	K16137	TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon | (GenBa
+man:A11S_28	K16137	TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon | (GenBa
+man:A11S_267	K16171	fumarylacetoacetate (FAA) hydrolase [EC:3.7.1.2] | (GenBank) Fumarylacetoacetate hydrolase fa
+man:A11S_336	K16291	L,D-transpeptidase ErfK/SrfK | (GenBank) ErfK/YbiS/YcfS/YnhG like protein
+man:A11S_795	K16872	beta-ketodecanoyl-[acyl-carrier-protein] synthase [EC:2.3.1.207] | (GenBank) 3-oxoacyl-[acyl-
+man:A11S_118	K16898	ATP-dependent helicase/nuclease subunit A [EC:5.6.2.4 3.1.-.-] | (GenBank) ATP-dependent nucl
+man:A11S_119	K16899	ATP-dependent helicase/nuclease subunit B [EC:5.6.2.4 3.1.-.-] | (GenBank) ATP-dependent nucl
+man:A11S_958	K17662	cytochrome b pre-mRNA-processing protein 3 | (GenBank) CBP3 protein
+man:A11S_1672	K17675	ATP-dependent RNA helicase SUPV3L1/SUV3 [EC:3.6.4.13] | (GenBank) helicase domain-containing
+man:A11S_332	K17713	outer membrane protein assembly factor BamB | (GenBank) Outer membrane protein YfgL, lipoprot
+man:A11S_2128	K18138	multidrug efflux pump | (GenBank) RND efflux system, inner membrane transporter CmeB
+man:A11S_1179	K18138	multidrug efflux pump | (GenBank) RND multidrug efflux transporter, Acriflavin resistance pro
+man:A11S_2127	K18139	outer membrane protein, multidrug efflux system | (GenBank) RND efflux system, outer membrane
+man:A11S_760	K18163	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 6 | (GenBank) Phytoene/squ
+man:A11S_897	K18164	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 7 | (GenBank) hypothetical
+man:A11S_370	K18301	TetR/AcrR family transcriptional regulator, mexJK operon transcriptional repressor | (GenBank
+man:A11S_2104	K18306	membrane fusion protein, multidrug efflux system | (GenBank) putative Co/Zn/Cd efflux system
+man:A11S_2103	K18307	multidrug efflux pump | (GenBank) RND multidrug efflux transporter, Acriflavin resistance pro
+man:A11S_403	K18587	ubiquinone biosynthesis protein COQ9 | (GenBank) COQ9 family protein
+man:A11S_1873	K18672	diadenylate cyclase [EC:2.7.7.85] | (GenBank) hypothetical protein
+man:A11S_1442	K18707	threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5] | (GenBank) MiaB fami
+man:A11S_1947	K18901	membrane fusion protein, multidrug efflux system | (GenBank) Membrane-fusion protein
+man:A11S_1948	K18902	multidrug efflux pump | (GenBank) RND efflux system, inner membrane transporter CmeB
+man:A11S_2274	K19055	Ala-tRNA(Pro) deacylase [EC:3.1.1.-] | (GenBank) aminoacyl-tRNA editing enzyme-like protein Y
+man:A11S_811	K19222	1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28] | (GenBank) Phenylacetic acid degradati
+man:A11S_611	K19689	aminopeptidase [EC:3.4.11.-] | (GenBank) Leucyl aminopeptidase (aminopeptidase T)-like protei
+man:A11S_1553	K19710	ATP adenylyltransferase [EC:2.7.7.53] | (GenBank) Diadenosine tetraphosphate (Ap4A) hydrolase
+man:A11S_1345	K19784	chromate reductase, NAD(P)H dehydrogenase (quinone) | (GenBank) putative NADPH-dependent FMN
+man:A11S_1983	K20035	3-(methylsulfanyl)propanoyl-CoA dehydrogenase [EC:1.3.99.41] | (GenBank) Acyl-CoA dehydrogena
+man:A11S_2318	K20035	3-(methylsulfanyl)propanoyl-CoA dehydrogenase [EC:1.3.99.41] | (GenBank) Acyl-CoA dehydrogena
+man:A11S_101	K20276	large repetitive protein | (GenBank) structural toxin protein RtxA
+man:A11S_532	K21054	D-erythritol 1-phosphate dehydrogenase [EC:1.1.1.402] | (GenBank) Aerobic glycerol-3-phosphat
+man:A11S_932	K21071	ATP-dependent phosphofructokinase / diphosphate-dependent phosphofructokinase [EC:2.7.1.11 2.
+man:A11S_845	K21147	sulfur-carrier protein adenylyltransferase/sulfurtransferase [EC:2.7.7.80 2.7.7.- 2.8.1.11 2.
+man:A11S_2244	K21430	aldose sugar dehydrogenase [EC:1.1.5.-] | (GenBank) glucose sorbosone dehydrogenase
+man:A11S_2302	K21449	trimeric autotransporter adhesin | (GenBank) outer membrane protein
+man:A11S_1302	K21449	trimeric autotransporter adhesin | (GenBank) putative adhesin
+man:A11S_934	K21470	L,D-transpeptidase YcbB | (GenBank) hypothetical protein
+man:A11S_827	K21563	CRP/FNR family transcriptional regulator, dissimilatory nitrate respiration regulator | (GenB
+man:A11S_1668	K21600	CsoR family transcriptional regulator, copper-sensing transcriptional repressor | (GenBank) h
+man:A11S_848	K21636	ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6] | (GenBank) Ribonucleotide redu
+man:A11S_2364	K21687	resuscitation-promoting factor RpfA | (GenBank) Alginate regulatory protein AlgP
+man:A11S_1278	K21687	resuscitation-promoting factor RpfA | (GenBank) hypothetical protein
+man:A11S_1888	K21929	uracil-DNA glycosylase [EC:3.2.2.27] | (GenBank) Uracil-DNA glycosylase, family 4
+man:A11S_1849	K22010	two-component system, response regulator PdtaR | (GenBank) two component, sigma54 specific, t
+man:A11S_68	K22042	ArsR family transcriptional regulator, virulence genes transcriptional regulator | (GenBank)
+man:A11S_2100	K22278	peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104] | (GenBank) polysaccharide deace
+man:A11S_2118	K22297	Fur family transcriptional regulator, stress-responsive regulator | (GenBank) Transcriptional
+man:A11S_1485	K22310	L-ornithine Nalpha-acyltransferase [EC:2.3.2.30] | (GenBank) Putative hemolysin
+man:A11S_1486	K22617	lyso-ornithine lipid O-acyltransferase [EC:2.3.1.270] | (GenBank) 1-acyl-sn-glycerol-3-phosph
+man:A11S_470	K22618	ornithine lipid hydroxylase | (GenBank) Sterol desaturase
+man:A11S_1144	K22719	murein hydrolase activator | (GenBank) Periplasmic septal ring factor with murein hydrolase a
+man:A11S_205	K22737	erythrin-vacuolar iron transport family protein | (GenBank) Rubrerythrin
+man:A11S_696	K23518	O-acetyl-ADP-ribose deacetylase [EC:3.1.1.106] | (GenBank) Macro domain, possibly ADP-ribose
+man:A11S_316	K23874	4-amino-4-deoxychorismate mutase [EC:5.4.99.67] | (GenBank) chorismate mutase related enzyme
+man:A11S_1316	K23997	ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimerase [EC:4.2.1.136 5.1.99.6]
+man:A11S_489	K24126	lipoyl-dependent peroxiredoxin subunit C [EC:1.11.1.28] | (GenBank) Alkyl hydroperoxide reduc
+man:A11S_850	K24844	O2-independent ubiquinone biosynthesis protein UbiU | (GenBank) Collagenase-related protease
+man:A11S_849	K24845	O2-independent ubiquinone biosynthesis protein UbiV | (GenBank) hypothetical protein
+man:A11S_1590	K26061	L-aminoadipate-semialdehyde dehydrogenase | (GenBank) Aldehyde dehydrogenase B
+
