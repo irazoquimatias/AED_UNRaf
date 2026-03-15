@@ -1,100 +1,100 @@
 from datetime import datetime
 
 class Nodo:
-	def __init__(self, e, n, p):
-    	    self._element = e
-    	    self._next = n
-    	    self._prev = p
+	def __init__(self, e, s, a):
+    	    self._elemento = e
+    	    self._siguiente = n
+    	    self._anterior = p
 
 class LDE:
     def __init__(self):
-        self._head = None
-        self._tail = None
-        self._len = 0
+        self._cabeza = None
+        self._cola = None
+        self._tamano = 0
 
     def __len__(self):
-        return self._len
+        return self._tamano
 
-    def empty(self):
-        if self._len == 0:
+    def vacio(self):
+        if self._tamano == 0:
             return True
 
-    def print(self):
-        current = self._head
+    def imprimir(self):
+        actual = self._cabeza
         resultado = ""
-        while current._next != None:
-            resultado = resultado + str(current._element) + "\t"
-            current = current._next
-        resultado = resultado + str(current._element) + "\t"
+        while actual._siguiente != None:
+            resultado = resultado + str(actual._elemento) + "\t"
+            actual = actual._siguiente
+        resultado = resultado + str(actual._elemento) + "\t"
         print(resultado)
 
-    def reverse_print(self):
-        current = self._tail
+    def imprimir_reverso(self):
+        actual = self._cola
         resultado = ""
-        while current._prev != None:
-            resultado = resultado + str(current._element) + "\t"
-            current = current._prev
-        resultado = resultado + str(current._element) + "\t"
+        while actual._anterior != None:
+            resultado = resultado + str(actual._elemento) + "\t"
+            actual = actual._anterior
+        resultado = resultado + str(actual._elemento) + "\t"
         print(resultado)
 
-    def shift(self, e):
+    def agregar_inicio(self, e):
         n = Nodo(e, None, None)
-        if self.empty():
-            self._head = n
-            self._tail = n
+        if self.vacio():
+            self._cabeza = n
+            self._cola = n
         else:
-            n._next = self._head
-            self._head._prev = n
-            self._head = n
-        self._len += 1
+            n._siguiente = self._cabeza
+            self._cabeza._anterior = n
+            self._cabeza = n
+        self._tamano += 1
 
-    def append(self, e):
+    def agregar_final(self, e):
         n = Nodo(e, None, None)
-        if self.empty():
-            self._head = n
-            self._tail = n
+        if self.vacio():
+            self._cabeza = n
+            self._cola = n
         else:
-            n._prev = self._tail
-            self._tail._next = n
-            self._tail = n
-        self._len += 1
+            n._anterior = self._cola
+            self._cola._siguiente = n
+            self._cola = n
+        self._tamano += 1
 
-    def add(self, e, pos):
+    def agregar(self, e, pos):
         n = Nodo(e, None, None)
-        if self.empty():
-            self._head = n
-            self._tail = n
-            self._len += 1
+        if self.vacio():
+            self._cabeza = n
+            self._cola = n
+            self._tamano += 1
         elif pos > len(self)+1:
             raise IndexError("Out of range")
         elif pos == 0:
-            self.shift(e)
+            self.agregar_inicio(e)
         elif pos == -1 or pos == len(self):
-            self.append(e)
+            self.agregar_final(e)
         else:
             contador = 1
-            current = self._head
+            actual = self._cabeza
             while contador < pos:
-                current = current._next
+                actual = actual._siguiente
                 contador += 1
-            n._next = current._next
-            n._prev = current
-            current._next._prev = n 
-            current._next = n
-            self._len += 1
+            n._siguiente = actual._siguiente
+            n._anterior = actual
+            actual._siguiente._anterior = n 
+            actual._siguiente = n
+            self._tamano += 1
 
     def __getitem__(self, i):
         if -len(self) > i or i >= len(self):
             raise IndexError("Out of bounds")
         elif i >= 0:
-            current = self._head
+            actual = self._cabeza
             while i > 0:
-                current = current._next
+                actual = actual._siguiente
                 i -= 1
         elif i < 0:
-            current = self._tail
+            actual = self._cola
             while i < -1:
                 i += 1
-                current = current._prev
-        return current._element
+                actual = actual._anterior
+        return actual._elemento
 

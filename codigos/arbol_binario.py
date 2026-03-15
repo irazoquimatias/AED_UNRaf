@@ -2,160 +2,163 @@ import random
 
 class Nodo:
     def __init__(self,e):
-        self._element = e
-        self._parent = None
-        self._left = None
-        self._right = None
+        self._elemento = e
+        self._padre = None
+        self._izquierda = None
+        self._derecha = None
 
 class ArbolBinario:
     def __init__(self):
-        self._root = None
-        self._size = 0
+        self._raiz = None
+        self._tamano = 0
         
     def __len__(self):
-        return self._size
+        return self._tamano
 
-    def is_empty(self):
+    def vacio(self):
         if len(self) == 0:
             return True
 
-    def root(self):
-        return self._root
+    def raiz(self):
+        return self._raiz
 
-    def is_root(self, n):
-        if n._parent == None:
+    def es_raiz(self, n):
+        if n._padre == None:
             return True
     
-    def is_leaf(self, n):
-        if n._right == None and n._left == None:
+    def is_hoja(self, n):
+        if n._derecha == None and n._izquierda == None:
             return True
 
-    def parent(self, n):
-        if is_root(n):
+    def padre(self, n):
+        if es_raiz(n):
             raise IndexError("n es el nodo raiz")
-        return n._parent
+        return n._padre
 
-    def left(self, n):
-        return n._left
+    def izquierda(self, n):
+        return n._izquierda
 
-    def right(self, n):
-        return n._right
+    def derecha(self, n):
+        return n._derecha
 
-    def add(self, e, n=None):
-        if self.is_empty():
+    def agregar(self, e, n=None):
+        if self.vacio():
             n = Nodo(e)
-            self._root = n
-            self._size += 1
+            self._raiz = n
+            self._tamano += 1
         
-        if n == None and not self.is_empty():
-            n = self._root
+        if n == None and not self.vacio():
+            n = self._raiz
 
-        if e < n._element and n._left != None:
-            self.add(e, n._left)
-        elif e < n._element and n._left == None:
-            new = Nodo(e)
-            new._parent = n
-            n._left = new
-            self._size += 1
-        elif e > n._element and n._right != None:
-            self.add(e, n._right)
-        elif e > n._element and n._right == None:
-            new = Nodo(e)
-            new._parent = n
-            n._right = new
-            self._size += 1
+        if e < n._elemento and n._izquierda != None:
+            self.agregar(e, n._izquierda)
+        elif e < n._elemento and n._izquierda == None:
+            nuevo = Nodo(e)
+            nuevo._padre = n
+            n._izquierda = nueva
+            self._tamano += 1
+        elif e > n._elemento and n._derecha != None:
+            self.agregar(e, n._derecha)
+        elif e > n._elemento and n._derecha == None:
+            nueva = Nodo(e)
+            nueva._padre = n
+            n._derecha = nueva
+            self._tamano += 1
 
-    def depth(self, n):
-        if is_root(n):
+    def profundidad(self, n):
+        if es_raiz(n):
             return 0
         else:
-            return 1 + depth(n._parent)
+            return 1 + profundidad(n._padre)
 
-    def height(self, n):
-        if self.is_leaf(n):
+    def altura(self, n):
+        if self.is_hoja(n):
             return 0
-        elif n._left == None:
-            return 1 + self.height(n._right)
-        elif n._right == None:
-            return 1 + self.height(n._left)
-        elif self.height(n._left) > self.height(n._right):
-            return 1 + self.height(n._left)
+        elif n._izquierda == None:
+            return 1 + self.altura(n._derecha)
+        elif n._derecha == None:
+            return 1 + self.altura(n._izquierda)
+        elif self.altura(n._izquierda) > self.altura(n._derecha):
+            return 1 + self.altura(n._izquierda)
         else:
-            return 1 + self.height(n._right)
+            return 1 + self.altura(n._derecha)
 
-    def preorder(self, l, n = None):
+    def preorder(self, l = None, n = None):
         if n == None:
-            n = self._root
+            n = self._raiz
+            l = []
 
-        l.append(n._element)
-        if n._left != None:
-            self.preorder(l, n._left) 
-        if n._right != None:
-            self.preorder(l, n._right)
+        l.append(n._elemento)
+        if n._izquierda != None:
+            self.preorder(l, n._izquierda) 
+        if n._derecha != None:
+            self.preorder(l, n._derecha)
 
-    def inorder(self, l, n = None):
+    def inorder(self, l = None, n = None):
         if n == None:
-            n = self._root
+            n = self._raiz
+            l = []
 
-        if n._left != None:
-            self.inorder(l, n._left) 
-        l.append(n._element)
-        if n._right != None:
-            self.inorder(l, n._right)
+        if n._izquierda != None:
+            self.inorder(l, n._izquierda) 
+        l.append(n._elemento)
+        if n._derecha != None:
+            self.inorder(l, n._derecha)
 
-    def postorder(self, l, n = None):
+    def postorder(self, l = None, n = None):
         if n == None:
-            n = self._root
+            n = self._raiz
+            l = []
 
-        if n._left != None:
-            self.postorder(l, n._left) 
-        if n._right != None:
-            self.postorder(l, n._right)
-        l.append(n._element)
+        if n._izquierda != None:
+            self.postorder(l, n._izquierda) 
+        if n._derecha != None:
+            self.postorder(l, n._derecha)
+        l.append(n._elemento)
 
-    def breadth_first(self, l):
+    def anchura(self, l):
         cola = []
-        cola.append(self._root)
+        cola.append(self._raiz)
         while len(cola) > 0:
             n = cola.pop(0)
-            l.append(n._element)
-            if n._left != None:
-                cola.append(n._left)
-            if n._right != None:
-                cola.append(n._right)
+            l.append(n._elemento)
+            if n._izquierda != None:
+                cola.append(n._izquierda)
+            if n._derecha != None:
+                cola.append(n._derecha)
 
     def camino(self, f, c = None, nodo=None):
         if nodo == None:
-            nodo = self._root
+            nodo = self._raiz
             c = ""
 
-        c = c + "\t" + str(nodo._element)
-        if nodo._element == f:
+        c = c + "\t" + str(nodo._elemento)
+        if nodo._elemento == f:
             print (c)
-        elif nodo._element < f:
-            nodo = self.right(nodo)
+        elif nodo._elemento < f:
+            nodo = self.derecha(nodo)
             self.camino(f, c, nodo)
         else:
-            nodo = self.leftt(nodo)
+            nodo = self.izquierdat(nodo)
             self.camino(f, c, nodo)
 
     def lca(self, a, b):
         ancestros_a = []
         ancestros_b = []
-        nodo = self.root()
-        while nodo._element != a:
-            ancestros_a.append(nodo._element)
-            if nodo._element > a:
-                nodo = nodo._left
+        nodo = self.raiz()
+        while nodo._elemento != a:
+            ancestros_a.append(nodo._elemento)
+            if nodo._elemento > a:
+                nodo = nodo._izquierda
             else:
-                nodo = nodo._right
-        nodo = self._root
-        while nodo._element != b:
-            ancestros_b.append(nodo._element)
-            if nodo._element > b:
-                nodo = nodo._left
+                nodo = nodo._derecha
+        nodo = self._raiz
+        while nodo._elemento != b:
+            ancestros_b.append(nodo._elemento)
+            if nodo._elemento > b:
+                nodo = nodo._izquierda
             else:
-                nodo = nodo._right
+                nodo = nodo._derecha
 
         for i in range(len(ancestros_a)-1, -1, -1):
             for j in range(len(ancestros_b)-1, -1, -1):

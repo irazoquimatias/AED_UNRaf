@@ -1,60 +1,60 @@
 class Nodo:
     def __init__(self,e):
-        self._element = e
-        self._parent = None
-        self._children = []
+        self._elemento = e
+        self._padre = None
+        self.hijos = []
 
 class ArbolNoBinario:
     def __init__(self):
-        self._root = None
-        self._size = 0
+        self._raiz = None
+        self._tamano = 0
         
     def __len__(self):
-        return self._size
+        return self._tamano
 
-    def is_empty(self):
+    def vacio(self):
         if len(self) == 0:
             return True
 
-    def root(self):
-        return self._root
+    def raiz(self):
+        return self._raiz
 
-    def is_root(self, n):
-        if n._parent == None:
+    def es_raiz(self, n):
+        if n._padre == None:
             return True
     
-    def is_leaf(self, n):
-        if n._children == []:
+    def es_hoja(self, n):
+        if n.hijos == []:
             return True
 
-    def parent(self, n):
-        if is_root(n):
+    def padre(self, n):
+        if es_raiz(n):
             raise IndexError("n es el nodo raiz")
-        return n._parent
+        return n._padre
 
-    def depth(self, n):
-        if is_root(n):
+    def profundidad(self, n):
+        if es_raiz(n):
             return 0
         else:
-            return 1 + depth(n._parent)
+            return 1 + profundidad(n._padre)
 
-    def add(self, e, p=None):
+    def agregar(self, e, p=None):
         n = Nodo(e)
         if p == None:
-            self._root = n
-            self._size += 1
+            self._raiz = n
+            self._tamano += 1
         else:
-            to_visit = [self._root]
-            current = self._root
-            while current._element != p and len(to_visit) > 0:
-                to_visit += current._children
-                current = to_visit.pop(0)
+            por_visitar = [self._raiz]
+            actual = self._raiz
+            while actual._elemento != p and len(por_visitar) > 0:
+                por_visitar += actual.hijos
+                actual = por_visitar.pop(0)
 
-            added = False
-            for c in current._children:
-                if c._element == n._element:
-                    added = True
-            if not added:
-                current._children.append(n)
-                n._parent = current
-                self._size += 1
+            agregado = False
+            for c in actual.hijos:
+                if c._elemento == n._elemento:
+                    agregado = True
+            if not agregado:
+                actual.hijos.append(n)
+                n._padre = actual
+                self._tamano += 1

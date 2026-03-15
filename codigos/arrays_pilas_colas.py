@@ -1,50 +1,50 @@
 class Pila:
     def __init__(self):
-        self._data = []
+        self._datos = []
 
     def __len__(self):
-        return (len(self._data))
+        return (len(self._datos))
 
-    def empty(self):
-        if len(self._data) == 0:
+    def vacio(self):
+        if len(self._datos) == 0:
             return True
         else:
             return False
 
-    def top(self):
-        return (self._data[-1])
+    def tope(self):
+        return (self._datos[-1])
 
-    def push(self, v):
-        self._data.append(v)
+    def agregar(self, v):
+        self._datos.append(v)
 
-    def pop(self):
-        return self._data.pop()
+    def quitar(self):
+        return self._datos.quitar()
 
-    def print(self):
-        print(self._data)
+    def imprimir(self):
+        print(self._datos)
 
 class Cola:
     def __init__(self):
-        self._data = []
+        self._datos = []
 
     def __len__(self):
-        return (len(self._data))
+        return (len(self._datos))
 
-    def empty(self):
-        if len(self._data) == 0:
+    def vacio(self):
+        if len(self._datos) == 0:
             return True
         else:
             return False
 
-    def first(self):
-        return (self._data[0])
+    def primero(self):
+        return (self._datos[0])
 
-    def enqueue(self, v):
-        self._data.append(v)
+    def agregar(self, v):
+        self._datos.append(v)
 
-    def dequeue(self):
-        return self._data.pop(0)
+    def quitar(self):
+        return self._datos.quitar(0)
 
-    def print(self):
-        print(self._data)
+    def imprimir(self):
+        print(self._datos)
 

@@ -1,112 +1,101 @@
 class Nodo:
 	def __init__(self, e, n):
-    	    self._element = e
-    	    self._next = n
+    	    self._elemento = e
+    	    self._siguiente = n
 
 class LSE:
     def __init__(self):
-        self._head = None
-        self._tail = None
-        self._len = 0
+        self._cabeza = None
+        self._tamano = 0
 
     def __len__(self):
-        return self._len
+        return self._tamano
 
-    def empty(self):
-        if self._len == 0:
+    def vacio   (self):
+        if self._tamano == 0:
             return True
 
-    def print(self):
-        current = self._head
+    def imprimir(self):
+        actual = self._cabeza
         resultado = ""
-        while current._next != None:
-            resultado = resultado + str(current._element) + "; "
-            current = current._next
-        resultado = resultado + str(current._element) + "; "
+        while actual._siguiente != None:
+            resultado = resultado + str(actual._elemento) + "; "
+            actual = actual._siguiente
+        resultado = resultado + str(actual._elemento) + "; "
         print(resultado)
 
-    def shift(self, e):
+    def agregar_inicio(self, e):
         n = Nodo(e, None)
-        if self.empty():
-            self._head = n
+        if self.vacio():
+            self._cabeza = n
         else:
-            n._next = self._head
-            self._head = n
-        self._len += 1
+            n._siguiente = self._cabeza
+            self._cabeza = n
+        self._tamano += 1
 
-    def append(self, e):
+    def agregar_final(self, e):
         n = Nodo(e, None)
-        if self.empty():
-            self._head = n
+        if self.vacio():
+            self._cabeza = n
         else:
-            current = self._head
-            while current._next != None:
-                current = current._next
-            current._next = n
-        self._len += 1
+            actual = self._cabeza
+            while actual._siguiente != None:
+                actual = actual._siguiente
+            actual._siguiente = n
+        self._tamano += 1
 
-    def append_tail(self, e):
-        n = Nodo(e, None)
-        if self.empty():
-            self._head = n
-            self._tail = n
-        else:
-            self._tail._next = n
-            self._tail = n
-        self._len += 1
-
-    def unshift(self):
-        if self.empty():
+    def quitar_inicio(self):
+        if self.vacio():
             raise IndexError ("Vacia")
-        current = self._head
-        self._head = self._head._next
-        self._len -= 1
-        return current._element
+        actual = self._cabeza
+        self._cabeza = self._cabeza._siguiente
+        self._tamano -= 1
+        return actual._elemento
 
-    def pop(self):
-        if self.empty():
+    def quitar_final(self):
+        if self.vacio():
             raise IndexError ("Vacia")
-        current = self._head
-        while current._next != None:
-            previous = current
-            current = current._next
-        previous._next = None
-        self._size =- 1
-        return current._element
+        actual = self._cabeza
+        while actual._siguiente != None:
+            anterior = actual
+            actual = actual._siguiente
+        anterior._siguiente = None
+        self._tamano =- 1
+        return actual._elemento
 
-    def remove(self, e):
-        if self.empty():
+    def quitar_valor(self, e):
+        if self.vacio():
             raise IndexError ("Vacia")
-        while self._head._element == e:
-            self.unshift()
-        current = self._head
-        while current._next != None:
-            previous = current
-            current = current._next
-            while current._element == e:
-                current = current._next
-                previous._next = current
-        self._size =- 1
+        while self._cabeza._elemento == e:
+            self.quitar_inicio()
+        actual = self._cabeza
+        while actual._siguiente != None:
+            anterior = actual
+            actual = actual._siguiente
+            while actual._elemento == e:
+                actual = actual._siguiente
+                anterior._siguiente = actual
+        self._tamano =- 1
 
-    def remove_pos(self, p):
-        if self.empty():
+    def quitar_posicion(self, p):
+        if self.vacio():
             raise IndexError ("Vacia")
-        current = self._head
+        actual = self._cabeza
         contador = 1
         while contador < p:
-            previous = current
-            current = current._next
+            anterior = actual
+            actual = actual._siguiente
             contador += 1
-        previous._next = current._next
-        self._size =- 1        
+        anterior._siguiente = actual._siguiente
+        self._tamano =- 1        
 
     def __getitem__(self, i):
-        if self.empty():
+        if self.vacio():
             raise IndexError ("Vacia")
         contador = 1
-        current = self._head
+        actual = self._cabeza
         while i > 0:
-            current = current._next
+            actual = actual._siguiente
             i -= 1
-        return current._element
+        return actual._elemento
 
