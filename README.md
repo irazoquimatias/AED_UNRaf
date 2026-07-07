@@ -10,4 +10,4 @@ Para mas informacion, escribir al correo jose.irazoqui@unraf.edu.ar
 16 de Julio (aula a confirmar)
 
 ## Próxima clase de consulta (virtual):
-6 de Julio, de 16:30 a 18:30
+13 de Julio, de 16:30 a 18:30
