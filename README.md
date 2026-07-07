@@ -11,4 +11,3 @@ Para mas informacion, escribir al correo jose.irazoqui@unraf.edu.ar
 
 ## Próxima clase de consulta (virtual):
 6 de Julio, de 16:30 a 18:30
-https://meet.google.com/iso-qjjg-cne
