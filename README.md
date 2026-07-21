@@ -7,8 +7,8 @@ En este repositorio encontrara el material para la cursada de Algoritmos y Estru
 Para mas informacion, escribir al correo jose.irazoqui@unraf.edu.ar
 
 ## Próxima mesa de examen:
-16 de Julio (aula a confirmar)
+30 de Julio (aula a confirmar)
 
 ## Próxima clase de consulta (virtual):
-13 de Julio, de 16:30 a 18:30
+23 de Julio, de 16:30 a 18:30
 https://meet.google.com/gqc-cnnn-yoy
